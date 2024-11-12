@@ -69,6 +69,10 @@
 <lastmod>2024-10-28T12:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/</loc>
+<lastmod>2024-11-11T11:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -96,11 +100,11 @@
 <loc>http://localhost:4000/website-solution-for-100-dollars/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/google-landing/styles.html</loc>
-<lastmod>2024-05-31T17:18:16-07:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/utility.html</loc>
 <lastmod>2024-10-27T22:15:13-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/web-designer/styles.html</loc>
+<lastmod>2024-05-31T17:18:16-07:00</lastmod>
 </url>
 </urlset>

@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-11T17:55:10-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Photographer Website Design - Figma Template</title><link href="http://localhost:4000/figma-templates/photography-website-design/" rel="alternate" type="text/html" title="Photographer Website Design - Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/photography-website-design/"><![CDATA[<div class="in-cont">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-11T23:59:25-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Finishing Up My Landing Page - Getting Ready To Start Google Ads Campaign - Building a Website With ChatGPT and AI</title><link href="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/" rel="alternate" type="text/html" title="Finishing Up My Landing Page - Getting Ready To Start Google Ads Campaign - Building a Website With ChatGPT and AI" /><published>2024-11-11T11:00:00-08:00</published><updated>2024-11-11T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-11/</id><content type="html" xml:base="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/"><![CDATA[<div class="post-cont mb-50">
+    <p class="_16">These last couple of weeks I've been focusing on a few things.</p>
+</div>
 
-    <!-- Header -->
-    <h1>Photographer Website Design - Figma Template</h1>
+<div class="post-cont mb-75">
+    <h2>Finishing Up the Ad For My Campaign.</h2>
+    <p class="_16">I finally got around to finishing my landing page. I'm going to be setting it up with Google Ads in a day or two.</p>
+</div>
 
-    <!-- Image -->
-    <img style="max-width:800px;" class="mb-50" src="/assets/templates/photographer-landing-page.png" alt="">
+<div class="post-cont mb-100">
+    <h2>Using ChatGPT To Build A Website With Eleventy</h2>
+    <p class="_16">For a while now I've been wanting to move my site over to something a little faster in terms of build time and Eleventy seems to be the answer. The only thing that's been stoping me is learning a whole new platform.</p>
 
-    <!-- Break -->
-    <br>
-
-    <!-- Download Button -->
-    <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button" data-theme="grey" data-product="4PYsV">Download</a>
-
-    <h2>What is this?</h2>
-    This is a website design that I made for a photographer/photography agency.
-
-
-    <a href="/figma-templates/" target="_blank">Free Figma Templates</a>
-
-</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
+    <p class="_16">
+        Earlier this week without thought I went over to ChatGPT.com and began writing. 
+    </p>
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Finishing up my landing page and using ChatGPT to build an eleventy website.]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
 
     <h1>Website Starter Package Landing Page - Free Figma Template</h1>
 
@@ -155,6 +151,26 @@
 
     <a href="/figma-templates/" target="_blank">Free Figma Templates</a>
 
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Photographer Website Design - Figma Template</title><link href="http://localhost:4000/figma-templates/photography-website-design/" rel="alternate" type="text/html" title="Photographer Website Design - Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/photography-website-design/"><![CDATA[<div class="in-cont">
+
+    <!-- Header -->
+    <h1>Photographer Website Design - Figma Template</h1>
+
+    <!-- Image -->
+    <img style="max-width:800px;" class="mb-50" src="/assets/templates/photographer-landing-page.png" alt="">
+
+    <!-- Break -->
+    <br>
+
+    <!-- Download Button -->
+    <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button" data-theme="grey" data-product="4PYsV">Download</a>
+
+    <h2>What is this?</h2>
+    This is a website design that I made for a photographer/photography agency.
+
+
+    <a href="/figma-templates/" target="_blank">Free Figma Templates</a>
+
 </div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Birthday Invitation - Free Figma Template</title><link href="http://localhost:4000/figma-templates/birthday-invitation/" rel="alternate" type="text/html" title="Birthday Invitation - Free Figma Template" /><published>2024-10-27T20:00:00-07:00</published><updated>2024-10-27T20:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/birthday-invitation/"><![CDATA[<div class="in-cont">
 
     <div class="cont flex">
@@ -186,17 +202,4 @@
 <div class="post-cont mb-50">
     <h2 class="_24">Making Improvements to the About Me Page</h2>
     <p class="_16">Check out the about me page here  <a href="/about/" target="blank">About Ruben Gutierrez: Website Designer</a></p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[My Pages are starting to rank in Googles Search Results, Trying to figure out images for my website.]]></summary></entry><entry><title type="html">La Habra, California Search Engine Optimization</title><link href="http://localhost:4000/la-habra-california-search-engine-optimization/" rel="alternate" type="text/html" title="La Habra, California Search Engine Optimization" /><published>2024-09-22T10:00:00-07:00</published><updated>2024-09-22T10:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/la-habra-california-search-engine-optimization/"><![CDATA[<div class="in-cont pd-50">
-    <h1>La Habra Search Engine Optimization</h1>
-    <p>Are you looking for more visitors or clients in the La Habra, California area?</p>
-</div>
-
-<div class="in-cont">
-    <h2>Search Engine Optimization Services</h2>
-
-    <a href="/la-habra-california-website-design/">La Habra Web Design Services</a>
-
-    <p>Making sure that your able to find customers in your area is important.</p>
-    <p>Optimizing your website so that it get's found in searches is a must.</p>
-    <p>When you optimize your website for search engines the likely hood of your website being listed for multiple searches increases.</p>
-</div>]]></content><author><name></name></author><category term="SEO" /><summary type="html"><![CDATA[La Habra, California Website Search Engine Optimization.]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[My Pages are starting to rank in Googles Search Results, Trying to figure out images for my website.]]></summary></entry></feed>

@@ -11,13 +11,9 @@
 
         .logo {
             font-weight: 500;
-            border: 1px solid #000;
-            font-size: 12px;
             padding: 5px 7.5px;
 
-            @media(min-width:$lt){
-                font-size: 14px;
-            }
+          
     
             &:hover {
                 background: #000;
@@ -41,12 +37,8 @@
             }
 
             @media(min-width:$lt){
-                font-size: 15px;
+                font-size: 12px;
             }
         }
     }
-}
-
-#sharing-buttons {
-    display: none !important;
 }
