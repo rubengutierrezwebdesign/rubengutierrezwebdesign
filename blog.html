@@ -1,0 +1,53 @@
+---
+layout: default
+permalink: /blog/
+title: Website Design - Blog Website Technoglogy Control
+description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
+---
+
+<!-- Blog Page Header -->
+<div class="cont pd-125">
+  <div class="in-cont">
+    <!-- Blog Title -->
+  <h1 class="_300">Blog Posts</h1>
+  <!-- Blog TItle Subparagraph -->
+  <p class="mw-600 _16">Here I regularly post my thoughts, current projects.</p>
+  </div>
+</div>
+
+<!-- Blog Post Section -->
+<ul class="in-cont blog umb-100 center">
+    {% for post in site.tags.daily-post limit:6 %}
+      <!-- Blog Post -->
+      <li class="mb-50 br paa-10">
+
+        <!-- Title Section-->
+        <div class="cont blog-title flex">
+
+          <!-- Link -->
+          <a href="{{ post.url }}">
+
+            <!-- Title -->
+            <h2 class="sm _400 _18">{{ post.title }}</h2>
+
+          </a>
+
+        </div>
+
+        <!-- Date -->
+        <div class="post-date mb-30 _12">
+          <span>{{ post.date | date: "%B, %-d %Y" }}</span>
+        </div>
+
+        <!-- Description -->
+        <p class="_12">{{ post.description }}</p>
+      
+      </li>
+    {% endfor %}
+
+</ul>
+
+<div class="in-cont pd-50">
+  <h3 class="small-text">Read More Posts Here</h3>
+  <a href="/daily-posts/">Daily Posts</a>
+</div>

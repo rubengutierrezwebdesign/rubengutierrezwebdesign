@@ -1,0 +1,54 @@
+// Responsive Sizes
+$ph: 600px;  // ph = phone
+$lt: 900px;  // lt = laptop
+$dt: 1200px; // dt = desktop
+
+// Default
+// body {padding: 0 20px 100px;}
+a {color: #000;font-weight:500; &:selected {color: #000;}}
+
+ul {
+    padding-left: 0;
+}
+
+// Default Setting For Container
+* {margin: 0;box-sizing:border-box;}
+
+// Layouts - Defaults - Technology
+@import'tools';@import'home-page';@import'typography';@import'nav';
+@import'layout';@import'post';@import'about-page';
+
+// Custom Pages
+@import 'post';
+@import 'custom/web-design';
+@import 'blog-page';
+
+.services {
+    padding: 0;
+    justify-content: space-between;
+    .cont {
+        width: 100%;
+        min-height: 100px;
+        @media(min-width:$lt){     
+            width: 45%;
+        };
+    }
+}
+
+
+button {
+    padding: 10px;
+    background: #fff;
+    font-weight:600;
+
+    &:hover {
+        transition: .25s;
+        background: #000;
+        color: #fff;
+    }
+}
+
+img {
+    max-width: 100%;
+
+}

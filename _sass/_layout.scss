@@ -1,0 +1,39 @@
+// Rows
+.row {display:flex;max-width:100%;flex-direction: column;flex-wrap: wrap;@media(min-width:$ph){flex-direction: row;}}
+.row-two   {display:flex;flex-wrap:wrap;justify-content:space-between;.cont{width:45%}}
+
+.row-three {
+
+    @media(min-width:$ph){
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-between;
+    }
+
+    .cont {
+        width: 100%;
+        @media(min-width:$ph){
+            width:32%;
+        }
+    }
+}
+
+.row-four  {display:flex;flex-wrap:wrap;justify-content: space-between;.cont{width: 100%;@media(min-width:$lt){width:23.5%;};};};
+
+
+// Columns
+
+.small-container {max-width: 1000px !important;}
+
+// Max Width Container
+.cont {max-width:100%;}
+
+// Max Width Container With Padding
+.in-cont {max-width:100%; padding-left:40px; padding-right: 40px;}
+
+.post-cont {max-width: 700px; padding-left: 40px; padding-right: 40px;}
+
+// Unordered List
+ul{li{list-style:none;font-size: 16px;padding:0;}a{text-decoration:none;}}
+
+

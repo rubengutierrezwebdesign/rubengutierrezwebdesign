@@ -1,0 +1,43 @@
+.home-header {
+    border-bottom: .1px solid #cccccc;
+}
+
+.about-section {
+    .home-about {
+        display: flex;
+        justify-content: space-between;
+        .col {
+
+            @media(min-width:$lt){
+                width: 47%;
+            }
+        } 
+    }
+}
+
+.website-offer {
+    a {text-decoration: none;}
+    .row {
+
+        .feature-title {
+            a {
+                border: 2px solid black;
+                &:hover {
+                    background-color: #000;;
+                    color: #fff;
+                }
+            }
+        }
+        .feature-information {
+            max-width: 400px;
+            .cont {
+                .circle {
+                    height: 30px;
+                    width: 30px;
+                    border-radius: 50%;
+                    border: 1px solid black;
+                }
+            }
+        }
+    }
+}

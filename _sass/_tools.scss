@@ -1,0 +1,37 @@
+.default {padding:0;margin:0;}
+
+// Flexbox
+.flex {@media(min-width:$ph){display: flex;justify-content:space-between;}}
+
+// Margins - Spacing
+.mb-25  {margin-bottom:25px;}   // Margin Bottom =  30px
+.mb-50  {margin-bottom:50px;}   // Margin Bottom =  50px
+.mb-100 {margin-bottom:100px ;}  // Margin Bottom = 100px
+.mt-25  {margin-top:25px;}     // Margint Top   = 100px
+.mt-50  {margin-top:50px;}     // Margint Top   = 100px
+.mt-100 {margin-top:100px;}     // Margint Top   = 100px
+.mt-30  {margin-top:30px;}      // Margint Top = 30px
+
+// Borders
+ .br {border: 1px solid black !important;}       // br = Border 1px
+ .bb {border-bottom: 1px solid #ccc !important;} // bb = Border Bottom 1px
+
+// Padding
+.paa-10 {padding: 10px;}                        // paa = padding all around (10px)
+.paa-20 {padding: 30px;}
+.pd-50  {padding-top: 50px !important;padding-bottom: 50px !important;}
+.pd-125 {padding-top: 125px; padding-bottom: 125px;}
+.pd-250 {padding-top: 250px; padding-bottom: 250px;}
+.up-10  {padding: 10px;} // Univeral Padding 10px
+
+
+// Width
+.mw-300  {max-width: 300px!important;}
+.mw-50   {max-width: 50% !important;}
+.mw-600  {max-width: 600px!important;}
+.mw-1000 {max-width: 1000px !important;}
+
+.button {padding:5px 7.5px;text-decoration: none;}
+
+
+.center {margin-left: auto; margin-right:auto;}

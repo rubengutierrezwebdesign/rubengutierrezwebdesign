@@ -1,0 +1,27 @@
+.about-title {
+    border-bottom: 1px solid #ccc;
+}
+
+.about {
+
+
+    .skills {
+        display: flex;
+        flex-wrap: wrap;
+
+        @media(min-width:700px){
+            justify-content: space-between;
+        }
+
+        div {
+          
+            @media(min-width:700px){
+                width: 30%;
+            }
+        }
+       
+    }
+}
+
+
+

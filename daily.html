@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /daily-posts/
+title: Daily Blog Posts
+description: Daily blog posts
+---
+
+<div class="in-cont">
+    
+    <div class="cont pd-50">
+        <h1>Daily Posts</h1>
+    </div>
+
+    <!-- Daily Blog Post Section -->
+    <ul style="max-width: 100%!important;"class="blog green">
+        {% for post in site.tags.daily-post %}
+        <!-- Blog Post -->
+        <li class="mb-50">
+        
+            <!-- Title -->
+            <a href="{{ post.url }}"><h2 class="_20 _500">{{ post.title }}</h2></a>
+            <!-- Descritpion -->
+            <div class="post-date umb-30">
+            <span>{{ post.date | date: "%B, %-d %Y" }}</span>
+            </div>
+            <p class="_14">{{ post.description }}</p>
+
+            <a class="read-more _14"href="{{ post.url }}">Read More</a>
+        </li>
+        {% endfor %}
+      
+    </ul>
+
+</div>

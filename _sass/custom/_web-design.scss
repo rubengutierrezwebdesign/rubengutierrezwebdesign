@@ -1,0 +1,9 @@
+.feat-section {
+    justify-content: space-between;
+
+    @media(min-width:$lt){display: flex;}
+
+    .feat {
+        @media(min-width:$lt){width: 30%;}
+    }
+}
