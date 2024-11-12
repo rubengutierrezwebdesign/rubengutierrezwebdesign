@@ -1498,7 +1498,7 @@ input::-moz-focus-inner {
 
 .section-desc {
   font-family: "Frank Ruhl Libre", serif;
-  font-size: 4.4rem;
+  font-size: 3.5rem;
   font-weight: 400;
   line-height: 1.259;
   letter-spacing: -0.05rem;
@@ -1536,7 +1536,7 @@ input::-moz-focus-inner {
   }
 
   .section-desc {
-    font-size: 4.8rem;
+    font-size: 3rem;
   }
 
 }
@@ -1568,7 +1568,7 @@ input::-moz-focus-inner {
   }
 
   .section-desc {
-    font-size: 4rem;
+    font-size: 2.5rem;
   }
 
 }
@@ -3291,7 +3291,7 @@ input::-moz-focus-inner {
 
 .contact-email {
   font-family: "Roboto", sans-serif;
-  font-size: 11.2rem;
+  font-size: 7rem;
   font-weight: 400;
   line-height: 1;
   margin: 5.6rem 0 8rem;
@@ -3361,7 +3361,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 6.75rem;
   }
 
   .contact-infos {
@@ -3376,7 +3376,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 7rem;
   }
 
   .contact-infos {
@@ -3387,7 +3387,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3406,7 +3406,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 5.25vw;
   }
 
   .contact-infos {
