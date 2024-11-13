@@ -129,10 +129,6 @@ ul {
   margin-right: auto;
 }
 
-.home-header {
-  border-bottom: 0.1px solid #cccccc;
-}
-
 .about-section .home-about {
   display: flex;
   justify-content: space-between;
@@ -329,16 +325,19 @@ nav {
   height: 50px;
 }
 nav .logo {
-  padding: 1px 5px;
   font-size: 12px;
+  padding: 2.5px 5px;
+  text-decoration: none;
 }
 nav .links {
-  visibility: hidden;
+  display: none;
   height: 0;
 }
 @media (min-width: 600px) {
   nav .links {
-    visibility: visible;
+    height: 25px;
+    display: block;
+    display: flex;
     justify-content: space-between;
   }
 }
@@ -507,6 +506,10 @@ header {
   }
 }
 
+.footer h4 {
+  margin: 0 auto;
+}
+
 header {
   text-align: center;
   margin: 0 auto;
@@ -553,6 +556,14 @@ header {
   .bt {
     font-size: 1.5rem;
   }
+}
+
+.figma-templates {
+  display: flex;
+  flex-wrap: wrap;
+}
+.figma-templates li {
+  width: 300px;
 }
 
 .services {

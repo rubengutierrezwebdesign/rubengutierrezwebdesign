@@ -7,26 +7,20 @@ description: Figma Templates
 
 <div class="in-cont pd-100">
     <h1>Figma Templates</h1>
-    <p>Here you'll find Figma Templates that I've made.
+    <p class="_16">Here you'll find Figma Templates that I've made.
     </p>
 </div>
 
 <div class="in-cont">
-    <ul style="display:flex;flex-wrap: wrap;justify-content: space-between;">
-    
+    <ul class="figma-templates">
         {% for post in site.tags.figma %}
-    
             <!-- Blog Post -->
             <li class="umb-30 orange mw-600">
                 <img src="{{ post.thumbnail }}" alt="">
                 <!-- Title -->
                 <a href="{{ post.url }}"><h2 class="_18 _400">{{ post.display }}</h2></a>
                 <!-- Descritpion -->
-                <div class="post-date umb-30">
-                </div>
             </li>
-    
         {% endfor %}
-      
     </ul>
 </div>

@@ -16,12 +16,13 @@ ul {
 
 // Layouts - Defaults - Technology
 @import'tools';@import'home-page';@import'typography';@import'nav';
-@import'layout';@import'post';@import'about-page';
+@import'layout';@import'post';@import'about-page';@import'footer';
 
 // Custom Pages
 @import 'post';
 @import 'custom/web-design';
 @import 'blog-page';
+@import 'custom/figma';
 
 .services {
     padding: 0;

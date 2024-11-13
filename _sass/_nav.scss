@@ -23,16 +23,19 @@ nav {
     justify-content: space-between;
     height: 50px;
     .logo {
-        padding:1px 5px;
         font-size: 12px;
+        padding: 2.5px 5px;
+        text-decoration: none;
     }
 
     .links {
-        visibility: hidden;
+        display: none;
         height: 0;
 
         @media(min-width:$ph){
-            visibility: visible;
+            height: 25px;
+            display: block;
+            display: flex;
             justify-content:space-between;
         }
 
