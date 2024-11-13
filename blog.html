@@ -11,15 +11,17 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
     <!-- Blog Title -->
   <h1 class="_300">Blog Posts</h1>
   <!-- Blog TItle Subparagraph -->
-  <p class="mw-600 _16">Here I regularly post my thoughts, current projects.</p>
+  <p class="mw-600 _16">
+    I try and post regularly. I mainly post about what I'm working on or just ideads I have about the technology industry and web design.
+  </p>
   </div>
 </div>
 
 <!-- Blog Post Section -->
 <ul class="in-cont blog umb-100 center">
-    {% for post in site.tags.daily-post limit:6 %}
+    {% for post in site.tags.daily-post %}
       <!-- Blog Post -->
-      <li class="mb-50 br">
+      <li class="mb-50">
 
         <!-- Title Section-->
         <div class="cont blog-title flex">
@@ -35,12 +37,12 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
         </div>
 
         <!-- Date -->
-        <div class="post-date mb-30 _12">
+        <div class="post-date mb-30 _12 mb-25">
           <span>{{ post.date | date: "%B, %-d %Y" }}</span>
         </div>
 
         <!-- Description -->
-        <p class="_12">{{ post.description }}</p>
+        <p class="_14">{{ post.description }}</p>
       
       </li>
     {% endfor %}

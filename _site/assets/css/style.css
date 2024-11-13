@@ -221,11 +221,6 @@ h4 {
 ._14 {
   font-size: 0.875em;
 }
-@media (min-width: 900px) {
-  ._14 {
-    font-size: 1em;
-  }
-}
 
 ._16 {
   font-size: 1em;
@@ -308,7 +303,7 @@ h1, h2, h3, h4 {
 
 p {
   font-size: 1.25em;
-  line-height: 150%;
+  line-height: 160%;
   margin-bottom: 10px;
 }
 
@@ -411,14 +406,14 @@ p {
 
 .in-cont {
   max-width: 100%;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .post-cont {
   max-width: 700px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 ul li {
@@ -476,6 +471,7 @@ ul a {
 }
 .blog li {
   width: 100%;
+  margin-bottom: 75px;
 }
 @media (min-width: 600px) {
   .blog li {

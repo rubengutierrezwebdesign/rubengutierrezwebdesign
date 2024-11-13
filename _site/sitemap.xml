@@ -73,6 +73,14 @@
 <lastmod>2024-11-11T11:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/</loc>
+<lastmod>2024-11-12T11:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2024-11-12/why-reading-is-important/</loc>
+<lastmod>2024-11-12T11:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -80,9 +88,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/daily-posts/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/donate/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/figma-templates/</loc>

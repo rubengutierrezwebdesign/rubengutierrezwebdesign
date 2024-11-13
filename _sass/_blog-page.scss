@@ -10,6 +10,7 @@
     
     li {
         width: 100%;
+        margin-bottom: 75px;
         // Seperates Blog Posts at 600px
         @media(min-width:600px){max-width: 400px;}
 
