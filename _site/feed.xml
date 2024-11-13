@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-12T17:51:31-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/" rel="alternate" type="text/html" title="You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/"><![CDATA[<div class="post-cont mb-50">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-12T18:03:20-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/" rel="alternate" type="text/html" title="You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/"><![CDATA[<div class="post-cont mb-50">
     <h2 class="_24">Don't Let Your Fears Paralyze You</h2>
 
     <p class="_16 mb-25">
@@ -207,24 +207,23 @@
 
     <a href="/figma-templates/" target="_blank">Free Figma Templates</a>
 
-</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Photographer Website Design - Figma Template</title><link href="http://localhost:4000/figma-templates/photography-website-design/" rel="alternate" type="text/html" title="Photographer Website Design - Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/photography-website-design/"><![CDATA[<div class="in-cont">
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Photographer Website Design - Figma Template</title><link href="http://localhost:4000/figma-templates/photography-website-design/" rel="alternate" type="text/html" title="Photographer Website Design - Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/photography-website-design/"><![CDATA[<div class="in-cont pd-50">
 
     <!-- Header -->
     <h1>Photographer Website Design - Figma Template</h1>
 
     <!-- Image -->
-    <img style="max-width:800px;" class="mb-50" src="/assets/templates/photographer-landing-page.png" alt="">
+    <img style="max-width:800px;" class="mb-25" src="/assets/templates/photographer-landing-page.png" alt="">
 
     <!-- Break -->
     <br>
 
     <!-- Download Button -->
-    <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button" data-theme="grey" data-product="4PYsV">Download</a>
+    <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button mb-50" data-theme="grey" data-product="4PYsV">Download</a>
 
-    <h2>What is this?</h2>
-    This is a website design that I made for a photographer/photography agency.
+    <h2 class="mb-25">What is this?</h2>
+    This is a website design that I made for a photographer. 
 
-
-    <a href="/figma-templates/" target="_blank">Free Figma Templates</a>
+    <p class="_16">Click Here To Download the Figma File</p>
 
 </div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry></feed>
