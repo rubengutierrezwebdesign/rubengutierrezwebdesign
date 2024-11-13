@@ -1,11 +1,10 @@
 .blog {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    flex-wrap: wrap;
 
     @media(min-width:$ph){
+        display: flex;
         flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
     }
     
     li {
@@ -13,28 +12,6 @@
         margin-bottom: 75px;
         // Seperates Blog Posts at 600px
         @media(min-width:600px){max-width: 400px;}
-
-      
-
-
-        .read-more {
-            border: 2px solid black;
-            color: #000;
-            text-align: center;
-            height: 60px;
-            display: inline-block;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 150px;
-            font-weight: 600;
-
-            &:hover {
-                background: black;
-                transition: .25s ease;
-                color: #fff;
-            }
-        }
     }
 }
 
