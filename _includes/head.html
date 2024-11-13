@@ -1,5 +1,4 @@
 <head>
-  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,10 +7,6 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     {%- feed_meta -%}
-    <!-- Google Analytics -->
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -32,8 +27,4 @@
 
       gtag('config', 'G-55F069ENCX');
     </script>
-    
-    <!-- Adsense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8543313177774865"
-     crossorigin="anonymous"></script>
 </head>

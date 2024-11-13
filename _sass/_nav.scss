@@ -1,44 +1,96 @@
-.nav {
-    padding: 15px 0;
-    justify-content: space-between;
+
+
+/* off-screen-menu */
+.off-screen-menu {
+    background-color: #d1d1d1;;
+    height: 100%;
+    width: 100%;
+    max-width: 450px;
+    position: fixed;
+    top: 0;
+    right: -450px;
+    transition: .3s ease;
+}
+
+// Active Class For Closin Hamburger Menu
+.off-screen-menu.active {
+    right: 0;
+}
+
+nav {
     align-items: center;
     display: flex;
-    border-bottom: .1px solid #cccccc !important;
-   
-    a {
-        color: #000;
-        text-decoration: none;
+    justify-content: space-between;
+    height: 50px;
+    .logo {
+        padding:1px 5px;
+        font-size: 12px;
+    }
 
-        .logo {
-            font-weight: 500;
-            padding: 5px 7.5px;
+    .links {
+        visibility: hidden;
+        height: 0;
 
-          
-    
-            &:hover {
-                background: #000;
-                color: #fff;
+        @media(min-width:$ph){
+            visibility: visible;
+            justify-content:space-between;
+        }
+
+        li {
+            list-style: none;
+            margin-right: 20px;
+            a {
+                text-decoration: none;
             }
         }
     }
+}
 
-    ul {
-        width: 80%;
-        max-width: 250px;
-        display: flex;
-        justify-content: space-between;
+/* nav */
+.ham-menu-outter {
 
-        a {
-            font-size: 14px;
-            font-weight: 500;
-    
-            &:hover {
-                text-decoration: underline;
-            }
-
-            @media(min-width:$lt){
-                font-size: 12px;
-            }
+        @media(min-width:$ph){
+            display: none;
         }
-    }
+}
+
+
+
+/* ham menu */
+.ham-menu {
+    height: 30px;
+    width: 30px;
+    margin-left: auto;
+    position: relative;
+}
+.ham-menu span {
+    height: 3px;
+    width: 100%;
+    background-color: #29292b;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transition: .3s ease;
+}
+.ham-menu span:nth-child(1) {
+    top: 20%;
+}
+.ham-menu span:nth-child(3) {
+    top: 80%;
+}
+.ham-menu.active span {
+    background-color: rgb(0, 0, 0);
+}
+.ham-menu.active span:nth-child(1) {
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+.ham-menu.active span:nth-child(2) {
+    opacity: 0;
+}
+.ham-menu.active span:nth-child(3) {
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
 }

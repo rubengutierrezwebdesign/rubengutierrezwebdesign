@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +20,7 @@
 {"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-09-03T17:00:00-07:00","datePublished":"2024-09-03T17:00:00-07:00","description":"I’m going to be trying to make it look more like a resume rather than a portfolio, kind of of the same thing but not really.","headline":"Writing More Content For My Jekyll Website, Improving the About Me Page","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2024-09-03/"},"url":"http://localhost:4000/2024-09-03/"}</script>
 <!-- End Jekyll SEO tag -->
 <!-- Stylesheet -->
-    <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" /><!-- Google Analytics --><!-- Google Fonts -->
+    <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" /><!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet">
@@ -41,32 +40,41 @@
 
       gtag('config', 'G-55F069ENCX');
     </script>
-    
-    <!-- Adsense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8543313177774865"
-     crossorigin="anonymous"></script>
 </head>
-<body><div class="in-cont nav">
-    
-    <!-- Logo -->
+<body><nav class="in-cont flex">
+
     <a href="/">
         <div class="logo br">
-            <span class="_12">Ruben</span>  
-            <span class="_12">Gutierrez</span>
+            <span>Ruben Gutierrez</span>
         </div>
     </a>
 
-    <!-- Link -->
-    <ul class="links">
-        <a href="/">Home</a>
-        <a href="/blog/">Blog</a>
-        <a href="/about/">About</a>
-        <a href="/figma-templates/">Figma</a>
-    </ul>
+    <div class="links flex">
+        <li><a class="_12" href="/">Home</a></li>
+        <li><a class="_12" href="/about/">About</a></li>
+        <li><a class="_12" href="/blog/">Blog</a></li>
+        <li><a class="_12" href="/figma-templates/">Figma</a></li>
+        <li><a class="_12" href="/tutorials/">Tutorials</a></li>
+    </div>
 
-    
-</div>
-    <main class="page-content cont-min" aria-label="Content">
+    <div class="off-screen-menu">
+        <ul>
+            <li class="mb-50"><a href="/">Home</a></li>
+            <li class="mb-50"><a href="/about/">About</a></li>
+            <li class="mb-50"><a href="/blog/">Blog</a></li>
+        </ul>
+    </div>
+
+    <div class="ham-menu-outter">
+        <div class="ham-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</nav>
+
+<main class="page-content cont-min" aria-label="Content">
         <article class="post cont" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="in-cont post-header title-p mb-50">
@@ -101,9 +109,13 @@
 
   <a class="u-url" href="/2024-09-03/" hidden></a>
 
+  <script src="/assets/js/app.js"></script>
+
 </article>
     </main>
 
   </body>
+
+  <script src="/assets/js/app.js"></script>
 
 </html>

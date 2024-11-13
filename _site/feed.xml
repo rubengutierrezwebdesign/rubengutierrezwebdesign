@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-13T11:08:00-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/" rel="alternate" type="text/html" title="You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/"><![CDATA[<div class="post-cont mb-50 center">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-13T13:45:51-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">How To Make A Website</title><link href="http://localhost:4000/pages/how-to-make-a-website/" rel="alternate" type="text/html" title="How To Make A Website" /><published>2024-11-13T00:00:00-08:00</published><updated>2024-11-13T00:00:00-08:00</updated><id>http://localhost:4000/pages/</id><content type="html" xml:base="http://localhost:4000/pages/how-to-make-a-website/"><![CDATA[<div class="in-cont pd-100">
+
+    <h1>How To Make A Website</h1>
+
+    <p class="_16 mb-25">
+        Their are a thousand ways to make a website. 
+        
+        In this tutorials I'm going to be teaching the simplest way to make a website because I feel like a lot of the tutorials
+        online overcomplicate the subject at hand.
+        
+        If you want to make a website it's fairly simple to build one.
+        
+        All you have to do is create a new folder and compile.
+    </p>
+
+    <div class="cont mb-50">
+        <h3 class="_20">Visual Studio Code A Really Good Text Editor</h3>
+        <p class="_16">
+            In order to start writing code you're going to need a text editor. I suggest installing Visual Studio Code
+            because it provides you with a lot of useful tools, but any of them will do.
+        </p>
+    </div>
+
+    <div class="cont mb-50">
+        <h2>Step 1: Create A Folder</h2>
+        <p class="_16">A Website is a program and a program is essentially just files in a folder.</p>
+        <p class="_16">The first thing you're going to be doing is open up the folder in your text editor.</p>
+    </div>
+
+    <div class="cont mb-50">
+        <h2>Step 2: Creating An HTML File</h2>
+        <p class="_16 mb-25">
+            The main type of file you'll be using when you're building websites are .HTML files.
+        </p>
+        <p class="_16">Hyper Text Markup Language is a coding langauge that is used to give structure and render information. </p>
+        <h3 class="_20">What is an HTML file?</h3>
+    </div>
+
+</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/" rel="alternate" type="text/html" title="You Have To Try To Get Over the Fear of Failure If You Want To Make Money With Your Computer" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failure/"><![CDATA[<div class="post-cont mb-50 center">
     <h2 class="_24">Don't Let Your Fears Paralyze You</h2>
 
     <p class="_16 mb-25">
@@ -44,88 +82,172 @@
             Earlier this week without thought I went over to ChatGPT.com and began writing. 
         </p>
     </div>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Finishing up my landing page and using ChatGPT to build an eleventy website.]]></summary></entry><entry><title type="html">My Pages Are Finally Ranking in Google Search Console, Continuing To Write More Content</title><link href="http://localhost:4000/2024-09-23/" rel="alternate" type="text/html" title="My Pages Are Finally Ranking in Google Search Console, Continuing To Write More Content" /><published>2024-09-23T12:00:00-07:00</published><updated>2024-09-23T12:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-23/"><![CDATA[<div class="post-cont mb-50">
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Finishing up my landing page and using ChatGPT to build an eleventy website.]]></summary></entry><entry><title type="html">Online Shoe Website Design - Free Figma Template</title><link href="http://localhost:4000/figma-templates/nike-jordan-shoe-ecommerce-website/" rel="alternate" type="text/html" title="Online Shoe Website Design - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/2</id><content type="html" xml:base="http://localhost:4000/figma-templates/nike-jordan-shoe-ecommerce-website/"><![CDATA[<div class="in-cont pd-50">
+
+    <h1>Online Shoe Shop Website Design - Free Figma Template</h1>
+
+    <img src="/assets/templates/nike-shoe-website.jpg" alt="">
+    <br>
+    <a href="https://payhip.com/b/L0zAK" style="color:#333!important;background:#ECECEC!important;border:0!important;" class="payhip-buy-button" data-product="L0zAK">Click To Download</a>
+
+    <br>
+
+    <p>This is the Nike category section of an online shoe shop I designed in Figma.</p>
+
+    <h2>Why I Made This Online Shoe Website Design</h2>
+
+    <p>I've had a fascination with Nike shoes my whole life. Nikes especially Jordans are one of my favorite shoes and probably some of the most recognizable of all times.</p>
+
+    <p>"Do they look great?" Yes! "Do they look good on me?" No, my ankles are too big!</p>
+
+    <p>Despite that I am fascinated by the the unique shapes and color combination. I enjoy these types of so much that I decided to design this online shoe shop that sells modern releases of these awesome retro sneakers.
+    </p>
+
+    <p>One of my favorite features on this design is the color pallet in the top left corner of every shoe option.  The pallet contains the main colors on each shoe. My goal with this pallet is to help the buyer pick out shoes to match based on outfits they already have. 
+    </p>
+
+    <p>An improvement I'd like to add in the future is to lengthen the color pallet bar and break it up based on the percentage of each color on the shoe. If the shoe has a black base then half the bar would be black and if the shoe has small amounts of colors or highlights then only about a fifth of the bar would be colored in.
+    </p>
+
+    <p>
+        If you'd like some help making a websites that looks similar to the one above please feel free to send me an email or give me a call!
+    </p>
+
+
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Car Importing Business Mobile Website Design - Free Figma Template</title><link href="http://localhost:4000/figma-templates/car-honda-importer-mobile-website-design/" rel="alternate" type="text/html" title="Car Importing Business Mobile Website Design - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/5</id><content type="html" xml:base="http://localhost:4000/figma-templates/car-honda-importer-mobile-website-design/"><![CDATA[<div class="in-cont pd-50">
+
+    <h1>Car Importing Business Mobile Website Design - Free Figma Template</h1>
+
+    <img src="/assets/templates/car-importing-website.jpg" alt="">
+    <br>
+
+    <p class="_16">This is a website design I made for a car importing business.</p>
+    <p class="_16">Importing car especially from Japan is becoming more popular</p>
+    <p class="_16">With so many practical applications for these smaller more fuel effience cars I though it would be a good idead to make this website.</p>
+    <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button" data-theme="grey" data-product="qZw4a">Download</a>
+
+    <br>
+
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Construction Company Website Design - Free Figma Template</title><link href="http://localhost:4000/figma-templates/construction-company-website-design/" rel="alternate" type="text/html" title="Construction Company Website Design - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/3</id><content type="html" xml:base="http://localhost:4000/figma-templates/construction-company-website-design/"><![CDATA[<div class="in-cont pd-50">
+
+    <h1>Construction Company Website Design</h1>
+
+    <img src="/assets/templates/construction-company-website.png" alt="">
+    <br>
+    <a href="https://payhip.com/b/xWrJF" class="payhip-buy-button" style="background:#333!important;border:0!important;padding:20px!important;" data-product="xWrJF">Download</a>
+
+    <br>
+
+    <p>This is a website design for a Construction company. You can download it free for Figma.    </p>
+
+   
+
+
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Free WordPress Pricing Table Figma Template</title><link href="http://localhost:4000/figma-templates/wordpress-pricing-table/" rel="alternate" type="text/html" title="Free WordPress Pricing Table Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/1</id><content type="html" xml:base="http://localhost:4000/figma-templates/wordpress-pricing-table/"><![CDATA[<div class="in-cont pd-50">
+
+    
+    <h1>WordPress Pricing Table Website Design</h1>
+
+    <img src="/assets/templates/wordpress-pricing-table-template.png" alt="">
+
+    <br>
+
+    <a href="https://payhip.com/b/ecv2W" class="payhip-buy-button" style="background:#0A6AFA!important;border:0!important;" data-product="ecv2W">Download</a>
+
+
+    <div class="cont mw-1000">
+        <h2>What is this?</h2>
+
+        <p class="_16">
+            This is a WordPress pricing table design that I made to advertise WordPress website services. My aim with this design was to help ordinary people who don't know a whole lot websites visualize these types of services as a more off the shelf product rather than some complicated topic.
+        </p>
+
+        <p class="_16">
+            What I've noticed is that their's a ton of people out there who want to start a website but the moment they go look into one they're bombarded with a ton of offers filled with jargon keywords that just don't make a whole lot of sense to them. This usually causes them to just keep day dreaming about the idea and eventually they push it to the back of their mind.
+        </p>
+
+        <p class="_16">
+            What I've noticed is that their's a ton of people out there who want to start a website but the moment they go look into one they're bombarded with a ton of offers filled with jargon keywords that just don't make a whole lot of sense to them. This usually causes them to just keep day dreaming about the idea and eventually they push it to the back of their mind.
+        </p>
+
+        <p class="_16">
+        My goal was to simplify the whole idea for them and include some of the main features and benefits.
+        </p>
+
+    </div> 
+
+
     <p class="_16">
-        Today I wrote some copy for a landing page I'm making. It's an Ad for web services in the La Habra, California area. I also started building out the layout in HTML and styling it. Check out some of the things I've been working on.
+        Each tier has different features and different price points.
     </p>
-</div>  
 
-<div class="post-cont mb-50">
-    <h2 class="_24">La Habra Website Design Webpage</h2>
-    <p class="_16">I've been working on styling this <a href="/la-habra-california-website-design/" target="blank">page</a>. So Far I've added things like columns and rows with the hopes of making the information easier to consume.</p>
-</div>
-
-<div class="post-cont mb-50">
-    <h2 class="_24">Making Improvements to the About Me Page</h2>
-    <p class="_16">Check out the about me page here  <a href="/about/" target="blank">About Ruben Gutierrez: Website Designer</a></p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Today I wrote some copy for a landing page I'm making. It's an Ad for web services in the La Habra, California area. I also started building out the layout in HTML and styling it. Check out some of the things I've been working on.]]></summary></entry><entry><title type="html">Starting to Build Pages and Submitting to Google Search Console</title><link href="http://localhost:4000/2024-09-17/" rel="alternate" type="text/html" title="Starting to Build Pages and Submitting to Google Search Console" /><published>2024-09-17T23:00:00-07:00</published><updated>2024-09-17T23:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-17/"><![CDATA[<div class="in-cont mb-50">
-    <h2>Made A New Page For My Daily Posts</h2>
-    <p>Building More pages
-    added daily posts page: <a href="/daily-posts/">Daily Posts</a></p>
-</div>
-
-<div class="in-cont mb-50">
-    <h2>Making A Graphic For My Website Offer at the Bottom of My Homepage</h2>
-    <p>Designed a graphic for an offer I have on the bottom of my homepage. The offer is for a website with free domain, server space, and 3 - 5 custom pages.</p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Designed a graphic for an offer I have on the bottom of my homepage. The offer is for a website with free domain, server space, and 3 - 5 custom pages]]></summary></entry><entry><title type="html">Continuing To Build, Things To Look Forward Too Pagination</title><link href="http://localhost:4000/2024-09-16/" rel="alternate" type="text/html" title="Continuing To Build, Things To Look Forward Too Pagination" /><published>2024-09-16T14:00:00-07:00</published><updated>2024-09-16T14:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-16/"><![CDATA[<div class="in-cont">
-    <p>Working on building more web pages. I've been working on a page that displays my services.
-    </p>
     
-    Check it out here: <a href="/la-habra-california-website-design/">La Habra Website Design</a>
+    <div class="cont br">
+        <h3>Basic Package</h3>
+        <p>- Free Domain + Free Hosting</p>
+        <p>- 1 - 5 Custom Pages</p>
+        <p>- Fundamental Tutoring</p>
+    </div>
+
+    <div class="cont br">
+        <h3>Pro Package</h3>
+        <p>- Free Domain + Free Hosting</p>
+        <p>- 5 - 20 Custom Pages</p>
+        <p>- WordPress and Google Search Console Tutoring</p>
+        <p>- Monthly Maintenance for Up to a year</p>
+    </div>
+
+    <a href="/figma-templates/" target="_blank">Free Figma Templates</a>
+
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
+
+    <h1>Website Starter Package Landing Page - Free Figma Template</h1>
+
+    <img src="/assets/templates/website-starter-package.jpg" alt="">
+    <br>
+    <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button mb-25" data-theme="grey" data-product="qZw4a">Download</a>
+
+    <br>
+
+    <p class="_16">
+        This is a landing page I designed in Figma. The landing page advertises web design services.
+    </p>
+
+    <p class="_16">
+        Click the link underneatht the image to download this file for Figma.
+    </p>
+
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[A Landing Page]]></summary></entry><entry><title type="html">Web Design Agency - Free Figma Template</title><link href="http://localhost:4000/figma-templates/web-agency-design/" rel="alternate" type="text/html" title="Web Design Agency - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/4</id><content type="html" xml:base="http://localhost:4000/figma-templates/web-agency-design/"><![CDATA[<div class="in-cont pd-50">
+
+    <h1>Web Design Agency - Free Figma Template</h1>
+
+    <img src="/assets/templates/web-design-agency.png" alt="">
+    <br>
+    <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button" data-theme="grey" data-product="qZw4a"style="backgorund-color:#000!important;">Download</a>
+
+    <br>
+
+    <p class="_16">This is a landing page for a web design agency that I made in Figma.</p>
+
+    <p class="_16">If you want to download this template and edit it in Figma, click the link underneatht the image to begin the download process.</p>
     
-    <h2>Looking into Pagination</h2>
-    <p>I have to look into pagination for the blog updates.
-    </p>
-    <p>I'm building layouts figuring out how I'm going to structure my rows.</p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Jekyll Pagination, Building More Template. Creating More Templates Jekyll Pagination]]></summary></entry><entry><title type="html">Adding Layouts &amp;amp; Templates To My Website, Improving My Stylesheet</title><link href="http://localhost:4000/2024-09-13/" rel="alternate" type="text/html" title="Adding Layouts &amp;amp; Templates To My Website, Improving My Stylesheet" /><published>2024-09-13T08:00:00-07:00</published><updated>2024-09-13T08:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-13/"><![CDATA[<div class="in-cont">
-        
-    <p>Adding more templates to my website.
-    </p>
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Photographer Website Design - Figma Template</title><link href="http://localhost:4000/figma-templates/photography-website-design/" rel="alternate" type="text/html" title="Photographer Website Design - Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/photography-website-design/"><![CDATA[<div class="in-cont pd-50">
 
-    <h2>Customizing My Sass File</h2>
-    <p>I've been customizing my CSS classes to focus on building my interface quicker.
-    </p>
+    <!-- Header -->
+    <h1>Photographer Website Design - Figma Template</h1>
 
+    <!-- Image -->
+    <img style="max-width:800px;" class="mb-25" src="/assets/templates/photographer-landing-page.png" alt="">
 
-    <p>I feel like in the past I tended to use a lot of CSS to get my website to look exactly how I wanted but that always 
-        made it hard to </p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Fixing Things, Getting to know my website better. Submitting my website to Google Search Console.]]></summary></entry><entry><title type="html">Getting Familiar With New Website, Submitting Website To Google</title><link href="http://localhost:4000/2024-09-10/" rel="alternate" type="text/html" title="Getting Familiar With New Website, Submitting Website To Google" /><published>2024-09-10T17:00:00-07:00</published><updated>2024-09-10T17:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-10/"><![CDATA[<div class="post-cont">
-    <p class="_16 mb-25">
-        Getting used to this new set-up. I'm really focusing on building resuble code so that things look a little more neat but you know how that goes. 
-    </p>
-    
-    <h2 class="_24">Submitted My Website To Google Search Search Console
-    </h2>
-    
-    <p class="_16">Today I spent some time making adjustments to my DNS files. In order to get my website on Google faster I'm going to have to add some files that prove that I'm the owner of my domain 'ruben-gutierrez.com'
-    </p>
-    
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Today I spent some time making adjustments to my DNS files. In order to get my website on Google faster I'm going to have to add some files that prove that I'm the owner of my domain 'ruben-gutierrez.com']]></summary></entry><entry><title type="html">Writing More Content For My Jekyll Website, Improving the About Me Page</title><link href="http://localhost:4000/2024-09-03/" rel="alternate" type="text/html" title="Writing More Content For My Jekyll Website, Improving the About Me Page" /><published>2024-09-03T17:00:00-07:00</published><updated>2024-09-03T17:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-03/"><![CDATA[<div class="in-cont">
-    <p>Today I decided that I'm going to be working on improving the about me page on my site.
-    </p>
+    <!-- Break -->
+    <br>
 
-    <h2>Changing to Resume Style Rather Than A Portfolio Look</h2>
+    <!-- Download Button -->
+    <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button mb-50" data-theme="grey" data-product="4PYsV">Download</a>
 
-    <p>I'm going to be trying to make it look more like a resume than a portfolio, kind of of the same thing but not really.
-    </p>
+    <h2 class="mb-25">What is this?</h2>
+    This is a website design that I made for a photographer. 
 
-    <h2>How It's Changing
-    </h2>
+    <p class="_16">Click Here To Download the Figma File</p>
 
-    <p>I'm going to really focus on being descriptive about my skill level and what it is exactly I know how to do.</p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[I'm going to be trying to make it look more like a resume rather than a portfolio, kind of of the same thing but not really.]]></summary></entry><entry><title type="html">Using Porkbun, Jekyll, Github, and Vercel To Build &amp;amp; Deploy My New Website</title><link href="http://localhost:4000/2024-09-01/new-website-using-jekyll-vercel-github/" rel="alternate" type="text/html" title="Using Porkbun, Jekyll, Github, and Vercel To Build &amp;amp; Deploy My New Website" /><published>2024-09-01T15:53:11-07:00</published><updated>2024-09-01T15:53:11-07:00</updated><id>http://localhost:4000/2024-09-01/</id><content type="html" xml:base="http://localhost:4000/2024-09-01/new-website-using-jekyll-vercel-github/"><![CDATA[<div class="post-cont">
-    <p class="_16">Hello! it's been a while, I'm back! You'll find some of the things that I've been up too recently.</p>
-</div>
-
-<div class="post-cont">
-    <h2 class="_24">Vercel, Jekyll, Porkbun, and Github</h2>
-    <p class="_16">I'm making a new website so I've decided to use the technologies above to build it and deploy it.</p>
-</div>
-
-<div class="post-cont">
-    <h2>Learning More About DNS FIles</h2>
-    <p class="_16">I've decided to host DNS files are interesting and a must if you're ever going to get good at hosting and deploying websites.
-    </p>
-    <p>I spent some time today learning about TXT files and 
-    </p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Buying my domain from Porkbun deploying my website using Vercel and Github to Deploy my new website. I'm making a new website so I've decided to use the technologies above to build it and deploy it.]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry></feed>
