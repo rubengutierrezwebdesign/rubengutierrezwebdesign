@@ -1,7 +1,12 @@
 .figma-templates {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
+
     li {
-        width: 300px;
+        @media(min-width:700px){
+            width: 30%;
+        }
     }
+    
 }

@@ -9,9 +9,15 @@
     
     li {
         width: 100%;
-        margin-bottom: 75px;
-        // Seperates Blog Posts at 600px
-        @media(min-width:600px){width: 40%;}
+        margin-bottom: 100px;
+
+        @media(min-width:$ph){
+            width: 45.5%;
+        }
+
+        @media(min-width:$dt){
+            width: 20.5%;
+        }
     }
 }
 

@@ -1,33 +1,17 @@
 ---
 layout: default
 permalink: /blog/
-title: Website Design - Blog Website Technoglogy Control
+title: Website Design - Blog Website Technoglogy
 description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 ---
 
-<!-- Blog Page Header -->
-<div class="cont pd-50">
-  <div class="in-cont flex">
-    <!-- Blog Title -->
-    <h1 class="_300 _20">Blog Posts</h1>
-    <!-- Blog TItle Subparagraph -->
-    <p class="mw-600 _14">
-      I try and post regularly. I mainly post about what I'm working on or just ideads I have about the technology industry and web design.
-    </p>
-  </div>
-</div>
-
 <!-- Current Post -->
-<div class="in-cont mb-100">
+<div class="in-cont mb-100 pd-50">
   {% for post in site.tags.current-post %}
     <!-- Title Section-->
-    <div class="cont flex">
+    <div class="cont flex" style="align-items: center;">
 
-      <div class="image mw-600">
-        <img src="{{ post.thumbnail }}" alt="">
-      </div>
-
-      <div class="information mw-600">
+      <div class="information mw-600 br" style="padding:30px;max-height: 200px;">
 
         <!-- Date -->
         <div class="_12">
@@ -40,6 +24,10 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
         </a>
         <p class="_14">{{ post.description }}</p>
 
+      </div>
+
+      <div class="image mw-600" style="padding:30px;">
+        <img src="{{ post.thumbnail }}" alt="">
       </div>
     
 
@@ -54,9 +42,9 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
   <ul class="cont blog mb-100 center">
 
     
-    {% for post in site.tags.daily-post %}
+    {% for post in site.tags.daily-post limit:8 %}
         <!-- Blog Post -->
-        <li class="mb-50 br">
+        <li class="mb-50">
           
           <!-- Date -->
           <div class="post-date _10 mb-10">
@@ -70,22 +58,17 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
             <a href="{{ post.url }}">
 
               <!-- Title -->
-              <h2 class="sm _400 _18">{{ post.title }}</h2>
+              <h2 class="_400 _16">{{ post.title }}</h2>
 
             </a>
 
           </div>
 
           <!-- Description -->
-          <p class="_14">{{ post.description }}</p>
+          <p class="_12">{{ post.description }}</p>
         
         </li>
     {% endfor %}
 
   </ul>
-</div>
-
-<div class="in-cont pd-50">
-  <h3 class="small-text">Read More Posts Here</h3>
-  <a href="/daily-posts/">Daily Posts</a>
 </div>

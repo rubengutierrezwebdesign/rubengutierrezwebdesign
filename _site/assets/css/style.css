@@ -47,8 +47,16 @@ ul {
   margin-bottom: 50px;
 }
 
+.mb-75 {
+  margin-bottom: 75px;
+}
+
 .mb-100 {
   margin-bottom: 100px;
+}
+
+.mt-10 {
+  margin-top: 10px;
 }
 
 .mt-25 {
@@ -122,6 +130,10 @@ ul {
 
 .mw-600 {
   max-width: 600px !important;
+}
+
+.mw-700 {
+  max-width: 700px !important;
 }
 
 .mw-1000 {
@@ -326,7 +338,7 @@ p {
   font-size: 1.25em;
   line-height: 160%;
   margin-bottom: 10px;
-  color: rgb(27, 27, 27);
+  color: rgb(42, 41, 41);
 }
 
 /* off-screen-menu */
@@ -370,7 +382,7 @@ nav .links {
 }
 nav .links li {
   list-style: none;
-  margin-right: 20px;
+  margin-left: 25px;
 }
 nav .links li a {
   text-decoration: none;
@@ -492,6 +504,9 @@ nav .links li a {
   max-width: 100%;
   padding-left: 30px;
   padding-right: 30px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .post-cont {
@@ -527,7 +542,7 @@ header {
   }
 }
 .about .skills div {
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 @media (min-width: 700px) {
   .about .skills div {
@@ -567,11 +582,16 @@ header {
 }
 .blog li {
   width: 100%;
-  margin-bottom: 75px;
+  margin-bottom: 100px;
 }
 @media (min-width: 600px) {
   .blog li {
-    width: 40%;
+    width: 45.5%;
+  }
+}
+@media (min-width: 1200px) {
+  .blog li {
+    width: 20.5%;
   }
 }
 
@@ -589,9 +609,12 @@ header {
 .figma-templates {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
-.figma-templates li {
-  width: 300px;
+@media (min-width: 700px) {
+  .figma-templates li {
+    width: 30%;
+  }
 }
 
 .services {
@@ -621,6 +644,7 @@ button:hover {
 
 img {
   max-width: 100%;
+  border-radius: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */
