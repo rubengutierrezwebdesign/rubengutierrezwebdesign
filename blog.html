@@ -6,12 +6,12 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 ---
 
 <!-- Current Post -->
-<div class="in-cont mb-100 pd-50">
+<div class="in-cont mb-50 pd-50">
   {% for post in site.tags.current-post %}
     <!-- Title Section-->
-    <div class="cont flex" style="align-items: center;">
+    <div class="cont flex">
 
-      <div class="information mw-600 br" style="padding:30px;max-height: 200px;">
+      <div class="information mw-500" style="padding:20px20px20px0;max-height: 200px;">
 
         <!-- Date -->
         <div class="_12">
@@ -20,15 +20,13 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
         <!-- Title & Link -->
         <a style="text-decoration:none"href="{{ post.url }}">
           <!-- Title -->
-          <h1 class=" _400 _20">{{ post.title }}</h1>
+          <h1 class=" _500 _20">{{ post.title }}</h1>
         </a>
         <p class="_14">{{ post.description }}</p>
 
       </div>
 
-      <div class="image mw-600" style="padding:30px;">
-        <img src="{{ post.thumbnail }}" alt="">
-      </div>
+    
     
 
     <!-- Description -->
@@ -58,7 +56,7 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
             <a href="{{ post.url }}">
 
               <!-- Title -->
-              <h2 class="_400 _16">{{ post.title }}</h2>
+              <h2 class="_500 _16">{{ post.title }}</h2>
 
             </a>
 

@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-14T11:22:05-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Adding A Side Menu To My Website, Writing The HTML &amp;amp; JavaScript for a Tool I’m Making</title><link href="http://localhost:4000/2024-11-14/Building-website-drawer/" rel="alternate" type="text/html" title="Adding A Side Menu To My Website, Writing The HTML &amp;amp; JavaScript for a Tool I’m Making" /><published>2024-11-14T09:00:00-08:00</published><updated>2024-11-14T09:00:00-08:00</updated><id>http://localhost:4000/2024-11-14/</id><content type="html" xml:base="http://localhost:4000/2024-11-14/Building-website-drawer/"><![CDATA[<div class="post-cont center">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-14T15:06:10-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Adding A Side Menu To My Website &amp;amp; Building A Pricing Tool</title><link href="http://localhost:4000/2024-11-14/imporiving-website-navigation-building-website-pricing-tool/" rel="alternate" type="text/html" title="Adding A Side Menu To My Website &amp;amp; Building A Pricing Tool" /><published>2024-11-14T10:00:00-08:00</published><updated>2024-11-14T10:00:00-08:00</updated><id>http://localhost:4000/2024-11-14/</id><content type="html" xml:base="http://localhost:4000/2024-11-14/imporiving-website-navigation-building-website-pricing-tool/"><![CDATA[<div class="post-cont center">
     <p class="_16">
-        Yesterday I finally added a side menu along with a hamburger icon to my website's navigation area. It's completely functional; how the side menu looks right now is a work in progress.
-    </p>
-    <h2 class="_20 _400">Biulding A Website Design Calculator</h2>
-    <p class="_16">
-        After finishing up my run this morning, I got home, drank my coffee, and figured out the HTML/Javascript for a tool that I'm currently working on. The tool I'm going to be hosting on my website is a calculator that will give you an estimate of how much a website should cost based on common options. Check it out the website design calculator I made. 
+        Yesterday I finally got around to adding a side menu for mobile screens to my website's navigation menu. 
     </p>
     <p class="_16">
-        Like many things in my life it's work in progress I'm planning on adding some cool icons and animaton with the goal of trying to make it as interactive as I can.
+        After testing it and figuring out the bugs, it's up and functional; how it looks is a work in progress.
+    </p>
+    <h2 class="_20 _400">Getting Started Biulding A Website Pricing Tool</h2>
+    <p class="_16">
+        Today in the morning, after finishing up my run, I began trying to put some code together for a pricing tool I've had in mind for a while now. This pricing tool that I'm going to be hosting on my website for free will be for anyone looking to get an estimate of how much their website should cost based on some variables.    </p>
+    <p class="_16">
+        After messing around with some code and doing research, I was finally able to find some HTML and JavaScript that do exactly what I need them to.
+    </p>
+    <h2 class="_20 _400">Future Plans For This Tool I'm Building</h2>
+    <p class="_16">
+        While it is just a skeleton right now, in the near future I will be adding things like icons and animations to make it as interactive and engaging as possible.  Feel free to bookmark it so that you can see how it progresses.  
     </p>
 
 </div>
-
-<div class="post-cont center">
-    <!-- <h2 class="_20 _400">
-        Doing Research For This Tool
-    </h2>
-
-    <p class="_16">Another thing I'm going to be doing is more research about this topic. While I have done a ton of reesearch about this particular topic it's been a while since I made a tool like this so that probably what I'm going to spend atleast a good hour or so on today.</p> -->
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Today I built the hamburger menu/drawer you can see in the top right corner on mobile or if you where to shrink your browser down.]]></summary></entry><entry><title type="html">Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy</title><link href="http://localhost:4000/2024-11-12/why-reading-is-important/" rel="alternate" type="text/html" title="Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/why-reading-is-important/"><![CDATA[<!-- Content -->
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Spent yesterday adding a side menu to my website and currently building out a pricing tool that can help you estimate how much a website is going to cost based on relative information.]]></summary></entry><entry><title type="html">Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy</title><link href="http://localhost:4000/2024-11-12/why-reading-is-important/" rel="alternate" type="text/html" title="Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/why-reading-is-important/"><![CDATA[<!-- Content -->
 <div class="post-cont center mb-30">
 
     <p class="_16 mb-20">
@@ -101,7 +100,7 @@
         <h3 class="_20">What is an HTML file?</h3>
     </div>
 
-</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Getting Over You Fear of Failing Will Make You Money &amp;amp; Better Progammer</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failing/" rel="alternate" type="text/html" title="Getting Over You Fear of Failing Will Make You Money &amp;amp; Better Progammer" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failing/"><![CDATA[<div class="post-cont mb-30 center">
+</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Your Fear of Failing Is Keeping You From Making Money</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failing/" rel="alternate" type="text/html" title="Your Fear of Failing Is Keeping You From Making Money" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failing/"><![CDATA[<div class="post-cont mb-30 center">
  
     <p class="_14 mb-20">
         Being a self-taught programmer, the fear of failing was a big part of my story, especially in the early days. I'd constantly be questioning myself, "Am I learning the right thing?" "Am I Googling the right questions?" the thoughts seemed endless.
@@ -132,21 +131,20 @@
     <p class="_14">
         The truth is that not all programming is hard. Don't get me wrong; this definitely is a field of programming that requires a high level of understanding, but for the most part, anyone with a little bit of time on their hands can pick up some pretty basic skills that could substantially improve their lives.
     </p> 
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[The fear of failing and messing things ups can keep you from doing what you want to do. Even worse if you let those thoughts linger for too long you'll become paralyzed and you can suddenly feel like your in the passenger seat of your own life.]]></summary></entry><entry><title type="html">Finishing Up My Landing Page &amp;amp; Building A Website With ChatGPT &amp;amp; Eleventy</title><link href="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/" rel="alternate" type="text/html" title="Finishing Up My Landing Page &amp;amp; Building A Website With ChatGPT &amp;amp; Eleventy" /><published>2024-11-11T11:00:00-08:00</published><updated>2024-11-11T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-11/</id><content type="html" xml:base="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/"><![CDATA[<div class="post-cont mw-600 center">
-    <div class="cont mb-25">
-        <p class="_16">These last couple of weeks I've been focusing on a few things.</p>
-    </div>
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[The fear of failing and messing things ups can keep you from doing what you want to do. Even worse if you let those thoughts linger for too long you'll become paralyzed and you can suddenly feel like your in the passenger seat of your own life.]]></summary></entry><entry><title type="html">Finalizing Landing Page &amp;amp; Messing Around W/ ChatGPT &amp;amp; Eleventy</title><link href="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/" rel="alternate" type="text/html" title="Finalizing Landing Page &amp;amp; Messing Around W/ ChatGPT &amp;amp; Eleventy" /><published>2024-11-11T11:00:00-08:00</published><updated>2024-11-11T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-11/</id><content type="html" xml:base="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/"><![CDATA[<div class="post-cont mw-700 center">
+
+    <p class="_14">
+        Today I spent the day putting the final touches on a landing page I'm building to try and get some clients through paid ads. 
+    </p>
     
     <div class="cont mb-25">
-        <h2 class="_24">Finishing Up the Ad For My Campaign.</h2>
-        <p class="_16">I finally got around to finishing my landing page. I'm going to be setting it up with Google Ads in a day or two.</p>
-    </div>
+        <h2 class="_20 _400">Testing Out ChatGPT by Building A Website With Eleventy To Build A Website With Eleventy</h2>
+        <p class="_14">
+            I'm probably a little late to this but better late than never especially in the technology world.
+            Admitely when I first used ChatGPT I would ask it silly questions but after a while of watch tech content about it on my phone and seeing how other programmers where implementing it into their work enviroement I decided to give them a job.
+        </p>
     
-    <div class="cont mb-25">
-        <h2>Using ChatGPT To Build A Website With Eleventy</h2>
-        <p class="_16">For a while now I've been wanting to move my site over to something a little faster in terms of build time. With some research I was able to find that Eleventy is specifically designed for larger sites. The only thing that's been stoping me is learning a whole new platform.</p>
-    
-        <p class="_16">
+        <p class="_14">
             Earlier this week without thought I went over to ChatGPT.com and began writing. 
         </p>
     </div>
@@ -175,7 +173,24 @@
     <p class="_16">Importing car especially from Japan is becoming more popular</p>
     <p class="_16">With so many practical applications for these smaller more fuel effience cars I though it would be a good idead to make this website.</p>
     <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button" data-theme="grey" data-product="qZw4a">Download</a>
+    <p class="_16">
+        What is this?
+This is a mobile website design for a car importing/importer business. Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light Automobile' in Japanese.
 
+Kei cars specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
+
+Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
+
+I've noticed a lot of people buying these and figured that using a Kei Truck would be fitting for this type of business and design.
+
+To make this I took inspiration from automotive website designs I found online along with some personal knowledge about the type of information you want to see when your shopping for cars online and this is what I came up with.
+
+I spend a few hours designing the layout and spend another hour or two making the logo look as cool as possible.  I used 'League gothic' for the big 'IMPORTER' text on top and translated 'car imported' to Japanese text and placed it right underneath.
+
+For about 5,000 American Buckaroos you can get yourself a decent low mileage 550cc 3 cylinder gas sipper to help you easily maneuver around your lot.
+
+Tell me what you think below, I enjoy hearing feedback from other!
+    </p>
     <br>
 
 </div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
@@ -188,9 +203,15 @@
 
     <br>
 
+    <h1>What is this?</h1>
     <p class="_16">
-        This is a landing page I designed in Figma. The landing page advertises web design services.
+        This is a landing page I made in Figma. It offers a website starter package in the Brea, California area.  I designed this webpage/service for beginners who are interested in starting a website.  It contains a lot of basic essential and design services to get up and running in no time.
+
+        Often times the concepts and vocabulary around website development can put off people who simply just want a website but don't want to learn the technology.
+
+        My goal for this landing page was to help make website design services look more like a product you can order or buy on a shelf.
     </p>
+    <p></p>
 
     <p class="_16">
         Click the link underneatht the image to download this file for Figma.
