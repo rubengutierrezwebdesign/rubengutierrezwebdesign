@@ -12,7 +12,7 @@ ul {
 }
 
 // Default Setting For Container
-* {margin: 0;box-sizing:border-box;}
+* {margin: 0;box-sizing:content-box;}
 
 // Layouts - Defaults - Technology
 @import'tools';@import'home-page';@import'typography';@import'nav';

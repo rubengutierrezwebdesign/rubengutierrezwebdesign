@@ -6,13 +6,15 @@ h3 {font-size:1.250em;  @media(min-width:$lt){font-size:1.550em;}}
 h4 {font-size:1.125em;  @media(min-width:$lt){font-size:1.250em;}}
 
 // Custom Fonts
+._10 {font-size: .625em;}
 ._12 {font-size: .7500em;}
 ._14 {font-size: .8750em;}
 ._16 {font-size: 1.000em;}
 ._18 {font-size: 1.125em;}
 ._20 {font-size: 1.250em;  @media(min-width:$lt){font-size:1.375em;};}
 ._24 {font-size: 1.500em;  @media(min-width:$lt){font-size:1.750em;}}
-._32 {font-size: 2.000em !important;  @media(min-width:$lt){font-size:2.250em;};}
+._28 {font-size: 1.750em;  @media(min-width:$lt){font-size:2.000em;}}
+._32 {font-size: 2.000em;  @media(min-width:$lt){font-size:2.250em;};}
 ._40 {font-size: 2.500em;  @media(min-width:$lt){font-size:3.000em;};}
 ._48 {font-size: 3.000em;  @media(min-width:$lt){font-size:3.250em;};}
 
@@ -27,6 +29,6 @@ h4 {font-size:1.125em;  @media(min-width:$lt){font-size:1.250em;}}
 h1,h2,h3,h4 {font-weight: 300;margin-bottom:20px;line-height: 150%;}
 
 // Paragraph 
-p {font-size:1.25em;line-height:160%;margin-bottom:10px;}
+p {font-size:1.25em;line-height:160%;margin-bottom:10px;color:rgb(27, 27, 27);}
 
 // Giant Title

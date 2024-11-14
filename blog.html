@@ -6,37 +6,44 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 ---
 
 <!-- Blog Page Header -->
-<div class="cont pd-50 center">
-  <div class="in-cont">
+<div class="cont pd-50">
+  <div class="in-cont flex">
     <!-- Blog Title -->
-  <h1 class="_300 _24">Blog Posts</h1>
-  <!-- Blog TItle Subparagraph -->
-  <p class="mw-600 _16">
-    I try and post regularly. I mainly post about what I'm working on or just ideads I have about the technology industry and web design.
-  </p>
+    <h1 class="_300 _20">Blog Posts</h1>
+    <!-- Blog TItle Subparagraph -->
+    <p class="mw-600 _14">
+      I try and post regularly. I mainly post about what I'm working on or just ideads I have about the technology industry and web design.
+    </p>
   </div>
 </div>
 
+<!-- Current Post -->
 <div class="in-cont mb-100">
   {% for post in site.tags.current-post %}
     <!-- Title Section-->
-    <div class="cont  mw-600">
+    <div class="cont flex">
 
-      <!-- Link -->
-      <a style="text-decoration:none"href="{{ post.url }}">
+      <div class="image mw-600">
+        <img src="{{ post.thumbnail }}" alt="">
+      </div>
 
-        <!-- Title -->
-        <h2 class=" _300 _20">{{ post.title }}</h2>
+      <div class="information mw-600">
 
-      </a>
+        <!-- Date -->
+        <div class="_12">
+          <span>{{ post.date | date: "%b, %-d %Y" }}</span>
+        </div>
+        <!-- Title & Link -->
+        <a style="text-decoration:none"href="{{ post.url }}">
+          <!-- Title -->
+          <h1 class=" _400 _20">{{ post.title }}</h1>
+        </a>
+        <p class="_14">{{ post.description }}</p>
 
-    <!-- Date -->
-    <div class="post-date mb-30 _12 mb-25">
-      <span>{{ post.date | date: "%B, %-d %Y" }}</span>
-    </div>
+      </div>
+    
 
     <!-- Description -->
-    <p class="_14">{{ post.description }}</p>
     </div>
   {% endfor %}
 </div>
@@ -49,7 +56,12 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
     
     {% for post in site.tags.daily-post %}
         <!-- Blog Post -->
-        <li class="mb-50">
+        <li class="mb-50 br">
+          
+          <!-- Date -->
+          <div class="post-date _10 mb-10">
+            <span>{{ post.date | date: "%b, %-d %Y" }}</span>
+          </div>
 
           <!-- Title Section-->
           <div class="cont blog-title flex">
@@ -62,11 +74,6 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 
             </a>
 
-          </div>
-
-          <!-- Date -->
-          <div class="post-date mb-30 _12 mb-25">
-            <span>{{ post.date | date: "%B, %-d %Y" }}</span>
           </div>
 
           <!-- Description -->

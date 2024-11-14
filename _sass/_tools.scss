@@ -4,9 +4,12 @@
 .flex {@media(min-width:$ph){display: flex;justify-content:space-between;}}
 
 // Margins - Spacing
-.mb-25  {margin-bottom:25px;}   // Margin Bottom =  30px
-.mb-50  {margin-bottom:50px;}   // Margin Bottom =  50px
-.mb-75  {margin-bottom:75px;}   // Margin Bottom =  75px
+.mb-10  {margin-bottom:10px;}   // Margin Bottom =  10px
+.mb-20  {margin-bottom:20px;}   // Margin Bottom =  30px
+.mb-30  {margin-bottom:30px;}   // Margin Bottom =  50px
+.mb-40  {margin-bottom:40px;}   // Margin Bottom =  75px
+.mb-50  {margin-bottom:50px;}   // Margin Bottom =  75px
+
 .mb-100 {margin-bottom:100px ;}  // Margin Bottom = 100px
 .mt-25  {margin-top:25px;}     // Margint Top   = 100px
 .mt-50  {margin-top:50px;}     // Margint Top   = 100px
@@ -28,7 +31,7 @@
 
 
 //Center 
-.center {margin: 0 auto;}
+.center {margin-left: auto;margin-right:auto;}
 
 
 // Width
@@ -41,3 +44,4 @@
 
 
 .center {margin-left: auto; margin-right:auto;}
+.text-center {    text-align: center;}
