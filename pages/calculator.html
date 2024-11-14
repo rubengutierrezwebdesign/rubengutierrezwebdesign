@@ -1,0 +1,91 @@
+---
+layout: default
+permalink: /calculator/
+title: Tools I Made
+description: T00ls
+---
+
+
+<div class="in-cont design-calculator">
+    
+    <h1>How much should a website cost?
+    </h1>
+
+    <p class="_16 mb-25">Have you ever asked yourself how much a website should cost? Well here I've compiled a few questions to help you guage how much a website should cost based on research.</p>
+
+   
+    <div class="cont">
+        
+        <form id="myForm" name="myForm">
+            <!-- Amoutn of Page -->
+            <div class="paa-10">
+              <label class="_20">How Many Pages Is Your Website Going To Need</label>
+              <br>
+              <label><input type="radio" name="no" value="200">3 - 5</label>
+              <label><input type="radio" name="no" value="400">5 - 15</label>
+              <label for="riskSmoke">
+                <input type="radio" name="no" value="700"> 15+
+              </label>
+            </div>
+            <!-- CMS Platform -->
+            <div class="paa-10">
+              <label>WordPress CMS Platoform</label>
+              <br>
+              <label for="riskSmoke">
+                <input type="radio" name="wordpress" value="200"> Yes
+              </label>
+              <label for="riskSmoke">
+                <input type="radio" name="wordpress" value="20"> No
+              </label>
+            </div>
+            <!-- Level of Design -->
+            <div class="paa-10">
+                <!-- Level of Design: Title -->
+                <label>Level of Design</label>
+                <br>
+                <!-- Option: Basic -->
+                <label for="riskSmoke">
+                  <input type="radio" name="design" value="100"> Basic
+                </label>
+                <!-- Option: Tempaltes -->
+                <label for="riskSmoke">
+                  <input type="radio" name="design" value="400"> Templates
+                </label>
+                <!-- Option: Custom -->
+                <label for="riskSmoke">
+                    <input type="radio" name="design" value="400"> Custom
+                </label>
+            </div>
+
+            <!-- Mobile Design -->
+            <div class="paa-10">
+                <label>Responsive/Mobile Design</label>
+                <br>
+                <label for="riskSmoke">
+                  <input type="radio" name="responsive" value="100"> Templates
+                </label>
+                <label for="riskSmoke">
+                  <input type="radio" name="responsvie" value="400"> Custom Pages
+                </label>
+            </div>
+        </form>
+          
+        <button onclick="getValues()">Get Values</button>
+          
+        <p>Total:</p>
+        <div id="total"></div>
+    </div>
+    
+    <script>
+        function getValues() {
+        let myForm = document.getElementById('myForm');
+        let formData = new FormData(myForm);
+        let total = 0;
+        for (var value of formData.values()) {
+            total += parseInt(value);
+        }
+        document.getElementById("total").innerHTML = total;
+        console.log(total);}
+    </script>
+
+</div>

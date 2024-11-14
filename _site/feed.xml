@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-13T23:21:31-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy</title><link href="http://localhost:4000/2024-11-12/why-reading-is-important/" rel="alternate" type="text/html" title="Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/why-reading-is-important/"><![CDATA[<!-- Content -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-14T11:22:05-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Adding A Side Menu To My Website, Writing The HTML &amp;amp; JavaScript for a Tool I’m Making</title><link href="http://localhost:4000/2024-11-14/Building-website-drawer/" rel="alternate" type="text/html" title="Adding A Side Menu To My Website, Writing The HTML &amp;amp; JavaScript for a Tool I’m Making" /><published>2024-11-14T09:00:00-08:00</published><updated>2024-11-14T09:00:00-08:00</updated><id>http://localhost:4000/2024-11-14/</id><content type="html" xml:base="http://localhost:4000/2024-11-14/Building-website-drawer/"><![CDATA[<div class="post-cont center">
+    <p class="_16">
+        Yesterday I finally added a side menu along with a hamburger icon to my website's navigation area. It's completely functional; how the side menu looks right now is a work in progress.
+    </p>
+    <h2 class="_20 _400">Biulding A Website Design Calculator</h2>
+    <p class="_16">
+        After finishing up my run this morning, I got home, drank my coffee, and figured out the HTML/Javascript for a tool that I'm currently working on. The tool I'm going to be hosting on my website is a calculator that will give you an estimate of how much a website should cost based on common options. Check it out the website design calculator I made. 
+    </p>
+    <p class="_16">
+        Like many things in my life it's work in progress I'm planning on adding some cool icons and animaton with the goal of trying to make it as interactive as I can.
+    </p>
+
+</div>
+
+<div class="post-cont center">
+    <!-- <h2 class="_20 _400">
+        Doing Research For This Tool
+    </h2>
+
+    <p class="_16">Another thing I'm going to be doing is more research about this topic. While I have done a ton of reesearch about this particular topic it's been a while since I made a tool like this so that probably what I'm going to spend atleast a good hour or so on today.</p> -->
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Today I built the hamburger menu/drawer you can see in the top right corner on mobile or if you where to shrink your browser down.]]></summary></entry><entry><title type="html">Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy</title><link href="http://localhost:4000/2024-11-12/why-reading-is-important/" rel="alternate" type="text/html" title="Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/why-reading-is-important/"><![CDATA[<!-- Content -->
 <div class="post-cont center mb-30">
 
     <p class="_16 mb-20">
@@ -43,11 +63,7 @@
         Whenever you find yourself in a sea of contratdictions just take a deep breathe and try to focus on something you like. Once you have something in mind try and ask some questions about that subject. If you find your.
     </p>
 
-</div>]]></content><author><name></name></author><category term="current-post" /><summary type="html"><![CDATA[Reading has helped me learn so many skills I would have not otherwise had. It's helped me gain new perspectives and allowed me to empathies with people who'm I might have just walked by.]]></summary></entry><entry><title type="html">Making A Drawer and Hamburger Menu For My Website</title><link href="http://localhost:4000/2024-11-12/Building-website-drawer/" rel="alternate" type="text/html" title="Making A Drawer and Hamburger Menu For My Website" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/1</id><content type="html" xml:base="http://localhost:4000/2024-11-12/Building-website-drawer/"><![CDATA[<div class="post-cont center">
-    <p class="_16">
-        Today I built the hamburger menu/drawer you can see in the top right corner on mobile or if you where to shrink your browser down.
-    </p>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Today I built the hamburger menu/drawer you can see in the top right corner on mobile or if you where to shrink your browser down.]]></summary></entry><entry><title type="html">How To Make A Website</title><link href="http://localhost:4000/pages/how-to-make-a-website/" rel="alternate" type="text/html" title="How To Make A Website" /><published>2024-11-13T00:00:00-08:00</published><updated>2024-11-13T00:00:00-08:00</updated><id>http://localhost:4000/pages/</id><content type="html" xml:base="http://localhost:4000/pages/how-to-make-a-website/"><![CDATA[<div class="in-cont pd-100">
+</div>]]></content><author><name></name></author><category term="current-post" /><summary type="html"><![CDATA[Reading has helped me learn so many skills I would have not otherwise had. It's helped me gain new perspectives and allowed me to empathies with people who'm I might have just walked by.]]></summary></entry><entry><title type="html">How To Make A Website</title><link href="http://localhost:4000/pages/how-to-make-a-website/" rel="alternate" type="text/html" title="How To Make A Website" /><published>2024-11-13T00:00:00-08:00</published><updated>2024-11-13T00:00:00-08:00</updated><id>http://localhost:4000/pages/</id><content type="html" xml:base="http://localhost:4000/pages/how-to-make-a-website/"><![CDATA[<div class="in-cont pd-100">
 
     <h1>How To Make A Website</h1>
 
