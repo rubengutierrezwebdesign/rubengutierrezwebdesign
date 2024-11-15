@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-14T15:06:10-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Adding A Side Menu To My Website &amp;amp; Building A Pricing Tool</title><link href="http://localhost:4000/2024-11-14/imporiving-website-navigation-building-website-pricing-tool/" rel="alternate" type="text/html" title="Adding A Side Menu To My Website &amp;amp; Building A Pricing Tool" /><published>2024-11-14T10:00:00-08:00</published><updated>2024-11-14T10:00:00-08:00</updated><id>http://localhost:4000/2024-11-14/</id><content type="html" xml:base="http://localhost:4000/2024-11-14/imporiving-website-navigation-building-website-pricing-tool/"><![CDATA[<div class="post-cont center">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-14T22:44:29-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Adding A Side Menu To My Website &amp;amp; Building A Pricing Tool</title><link href="http://localhost:4000/2024-11-14/imporiving-website-navigation-building-website-pricing-tool/" rel="alternate" type="text/html" title="Adding A Side Menu To My Website &amp;amp; Building A Pricing Tool" /><published>2024-11-14T10:00:00-08:00</published><updated>2024-11-14T10:00:00-08:00</updated><id>http://localhost:4000/2024-11-14/</id><content type="html" xml:base="http://localhost:4000/2024-11-14/imporiving-website-navigation-building-website-pricing-tool/"><![CDATA[<div class="post-cont center">
     <p class="_16">
-        Yesterday I finally got around to adding a side menu for mobile screens to my website's navigation menu. 
+        Yesterday I finally got around to adding a side menu for mobile devices to my website. 
     </p>
     <p class="_16">
-        After testing it and figuring out the bugs, it's up and functional; how it looks is a work in progress.
+        After testing it and working out the bugs, it's up and functional; how it looks is a work in progress.
     </p>
-    <h2 class="_20 _400">Getting Started Biulding A Website Pricing Tool</h2>
+    <h2 class="_20 _500">Biulding A Website Pricing Tool</h2>
     <p class="_16">
-        Today in the morning, after finishing up my run, I began trying to put some code together for a pricing tool I've had in mind for a while now. This pricing tool that I'm going to be hosting on my website for free will be for anyone looking to get an estimate of how much their website should cost based on some variables.    </p>
-    <p class="_16">
-        After messing around with some code and doing research, I was finally able to find some HTML and JavaScript that do exactly what I need them to.
+        Earlier today I began trying to put some code together for a pricing tool I've had in mind for a while now. This pricing tool that I'm going to be hosting on my website for free will be for anyone to use. I especially want people that are looking to get an estimate on a website project to use it.
+    <p class="_16 mb-20">
+        After doing my research I was finally able to find the right combination of HTML and JavaScript that does exactly what I need it to do. The code that I frankensteined takes all the selected values from the inputs and adds them up onces youo click the submit button. Check it out '<a href="/calculator">Website Pricing Tool</a>'
     </p>
-    <h2 class="_20 _400">Future Plans For This Tool I'm Building</h2>
+    <h2 class="_20 _500">Future Plans For This Tool I'm Building</h2>
     <p class="_16">
-        While it is just a skeleton right now, in the near future I will be adding things like icons and animations to make it as interactive and engaging as possible.  Feel free to bookmark it so that you can see how it progresses.  
+        While it is just a skeleton right now, in the near future I will be adding things like icons and animations to make it as interactive and engaging as possible.
     </p>
 
 </div>
@@ -131,24 +131,28 @@
     <p class="_14">
         The truth is that not all programming is hard. Don't get me wrong; this definitely is a field of programming that requires a high level of understanding, but for the most part, anyone with a little bit of time on their hands can pick up some pretty basic skills that could substantially improve their lives.
     </p> 
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[The fear of failing and messing things ups can keep you from doing what you want to do. Even worse if you let those thoughts linger for too long you'll become paralyzed and you can suddenly feel like your in the passenger seat of your own life.]]></summary></entry><entry><title type="html">Finalizing Landing Page &amp;amp; Messing Around W/ ChatGPT &amp;amp; Eleventy</title><link href="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/" rel="alternate" type="text/html" title="Finalizing Landing Page &amp;amp; Messing Around W/ ChatGPT &amp;amp; Eleventy" /><published>2024-11-11T11:00:00-08:00</published><updated>2024-11-11T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-11/</id><content type="html" xml:base="http://localhost:4000/2024-11-11/landing-page-chatgpt-eleventy/"><![CDATA[<div class="post-cont mw-700 center">
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[The fear of failing and messing things ups can keep you from doing what you want to do. Even worse if you let those thoughts linger for too long you'll become paralyzed and you can suddenly feel like your in the passenger seat of your own life.]]></summary></entry><entry><title type="html">Finalizing Landing Page &amp;amp; Messing Around W/ ChatGPT &amp;amp; 11ty</title><link href="http://localhost:4000/2024-11-11/landing-page-chatgpt-11ty/" rel="alternate" type="text/html" title="Finalizing Landing Page &amp;amp; Messing Around W/ ChatGPT &amp;amp; 11ty" /><published>2024-11-11T11:00:00-08:00</published><updated>2024-11-11T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-11/</id><content type="html" xml:base="http://localhost:4000/2024-11-11/landing-page-chatgpt-11ty/"><![CDATA[<div class="post-cont mw-700 center">
 
     <p class="_14">
         Today I spent the day putting the final touches on a landing page I'm building to try and get some clients through paid ads. 
     </p>
     
     <div class="cont mb-25">
-        <h2 class="_20 _400">Testing Out ChatGPT by Building A Website With Eleventy To Build A Website With Eleventy</h2>
+        <h2 class="_20 _400">Building A Simple Website Using Chat GPT & 11ty</h2>
         <p class="_14">
             I'm probably a little late to this but better late than never especially in the technology world.
-            Admitely when I first used ChatGPT I would ask it silly questions but after a while of watch tech content about it on my phone and seeing how other programmers where implementing it into their work enviroement I decided to give them a job.
+            Admitely when I first used ChatGPT I would ask it silly questions but after a while of watch the way programmers where using it I decided to give it a try and I have to say I'm pleasantly suprised.
+        </p>
+
+        <p class="_14">
+            Lately I've been contemplating on moving my website over to a static site generator called <a href="https://www.11ty.dev/">11ty</a>
         </p>
     
         <p class="_14">
             Earlier this week without thought I went over to ChatGPT.com and began writing. 
         </p>
     </div>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Finishing up my landing page and using ChatGPT to build an eleventy website.]]></summary></entry><entry><title type="html">Web Design Agency - Free Figma Template</title><link href="http://localhost:4000/figma-templates/web-agency-design/" rel="alternate" type="text/html" title="Web Design Agency - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/4</id><content type="html" xml:base="http://localhost:4000/figma-templates/web-agency-design/"><![CDATA[<div class="in-cont pd-50">
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[I'm probably a little late to this but better late than never especially in the technology world. Admitely when I first used ChatGPT I would ask it silly questions but after a while of watch the way programmers where using it I decided to give it a try and I have to say I'm pleasantly suprised.]]></summary></entry><entry><title type="html">Web Design Agency - Free Figma Template</title><link href="http://localhost:4000/figma-templates/web-agency-design/" rel="alternate" type="text/html" title="Web Design Agency - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/4</id><content type="html" xml:base="http://localhost:4000/figma-templates/web-agency-design/"><![CDATA[<div class="in-cont pd-50">
 
     <h1>Web Design Agency - Free Figma Template</h1>
 
@@ -163,37 +167,41 @@
     <p class="_16">If you want to download this template and edit it in Figma, click the link underneatht the image to begin the download process.</p>
     
 </div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Car Importing Business Mobile Website Design - Free Figma Template</title><link href="http://localhost:4000/figma-templates/car-honda-importer-mobile-website-design/" rel="alternate" type="text/html" title="Car Importing Business Mobile Website Design - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/5</id><content type="html" xml:base="http://localhost:4000/figma-templates/car-honda-importer-mobile-website-design/"><![CDATA[<div class="in-cont pd-50">
+    <!-- Hero -->
+    <div class="flex">
+        <div>
+            <h1 class="_28 mt-100">Car Importing Business Mobile Website Design - Free Figma Template</h1>
+            <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button" data-theme="grey" data-product="qZw4a">Download</a>
+        </div>
+        <div>
+            <img src="/assets/templates/car-importing-website.jpg" alt="">
+            <br>
+        </div>
+    </div>
 
-    <h1>Car Importing Business Mobile Website Design - Free Figma Template</h1>
-
-    <img src="/assets/templates/car-importing-website.jpg" alt="">
-    <br>
-
-    <p class="_16">This is a website design I made for a car importing business.</p>
-    <p class="_16">Importing car especially from Japan is becoming more popular</p>
-    <p class="_16">With so many practical applications for these smaller more fuel effience cars I though it would be a good idead to make this website.</p>
-    <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button" data-theme="grey" data-product="qZw4a">Download</a>
+    <h1>What is this?</h1>
     <p class="_16">
-        What is this?
-This is a mobile website design for a car importing/importer business. Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light Automobile' in Japanese.
-
-Kei cars specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
-
-Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
-
-I've noticed a lot of people buying these and figured that using a Kei Truck would be fitting for this type of business and design.
-
-To make this I took inspiration from automotive website designs I found online along with some personal knowledge about the type of information you want to see when your shopping for cars online and this is what I came up with.
-
-I spend a few hours designing the layout and spend another hour or two making the logo look as cool as possible.  I used 'League gothic' for the big 'IMPORTER' text on top and translated 'car imported' to Japanese text and placed it right underneath.
-
-For about 5,000 American Buckaroos you can get yourself a decent low mileage 550cc 3 cylinder gas sipper to help you easily maneuver around your lot.
-
-Tell me what you think below, I enjoy hearing feedback from other!
+        This is a mobile website design for a car importing/importer business. Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light Automobile' in Japanese.
     </p>
-    <br>
 
-</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
+    <p class="_16">
+        Kei cars specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
+    </p>
+
+    <p class="_16">
+        Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
+    </p>
+
+    <p class="_16">I've noticed a lot of people buying these and figured that using a Kei Truck would be fitting for this type of business and design.
+    </p>
+    <p class="_16">
+        To make this I took inspiration from automotive website designs I found online along with some personal knowledge about the type of information you want to see when your shopping for cars online and this is what I came up with.
+    </p>
+    <p class="_16">
+        I spend a few hours designing the layout and spend another hour or two making the logo look as cool as possible.  I used 'League gothic' for the big 'IMPORTER' text on top and translated 'car imported' to Japanese text and placed it right underneath.
+    </p>
+    
+</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[Car Importing Business Mobile Website Design - Free Figma Template Download]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
 
     <h1>Website Starter Package Landing Page - Free Figma Template</h1>
 
@@ -234,17 +242,17 @@ Tell me what you think below, I enjoy hearing feedback from other!
 
 </div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Photographer Website Design - Figma Template</title><link href="http://localhost:4000/figma-templates/photography-website-design/" rel="alternate" type="text/html" title="Photographer Website Design - Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/</id><content type="html" xml:base="http://localhost:4000/figma-templates/photography-website-design/"><![CDATA[<div class="in-cont pd-50">
 
-    <!-- Header -->
-    <h1>Photographer Website Design - Figma Template</h1>
+    <div class="flex">
+        <div>
+            <p class="mt-100 _14">Figma Template</p>
+            <h1 class="_24">Photographer Website Design</h1>
+            <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button mb-50" data-theme="grey" data-product="4PYsV">Download</a>
+        </div>
+        <div>
+            <img style="max-width:800px;" class="mb-25" src="/assets/templates/photographer-landing-page.png" alt="">
+        </div>
+    </div>
 
-    <!-- Image -->
-    <img style="max-width:800px;" class="mb-25" src="/assets/templates/photographer-landing-page.png" alt="">
-
-    <!-- Break -->
-    <br>
-
-    <!-- Download Button -->
-    <a href="https://payhip.com/b/4PYsV" class="payhip-buy-button mb-50" data-theme="grey" data-product="4PYsV">Download</a>
 
     <h2 class="mb-25">What is this?</h2>
     This is a website design that I made for a photographer. 
