@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-15T10:54:02-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Website Designer in La Habra, California</title><link href="http://localhost:4000/la-habra-california/website-designer/" rel="alternate" type="text/html" title="Website Designer in La Habra, California" /><published>2024-11-15T09:00:00-08:00</published><updated>2024-11-15T09:00:00-08:00</updated><id>http://localhost:4000/la-habra-california/</id><content type="html" xml:base="http://localhost:4000/la-habra-california/website-designer/"><![CDATA[<!-- Page Title -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-15T12:45:43-08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Website Designer in La Habra, California</title><link href="http://localhost:4000/la-habra-california/website-designer/" rel="alternate" type="text/html" title="Website Designer in La Habra, California" /><published>2024-11-15T09:00:00-08:00</published><updated>2024-11-15T09:00:00-08:00</updated><id>http://localhost:4000/la-habra-california/</id><content type="html" xml:base="http://localhost:4000/la-habra-california/website-designer/"><![CDATA[<!-- Page Title -->
 <div class="in-cont pd-50">
     <h1 class="_28 _400">
         <span style="font-size: 12px;">
@@ -20,7 +20,7 @@
     <!-- Title Section-->
     <div class="cont flex">
 
-      <a href="/la-habra-california/website-designer/" style="text-decoration: none;">
+      <a href="/la-habra-california/wordpress-designer/" style="text-decoration: none;">
         <h2 class="_500 _14">WordPress Designer</h2>
 
       </a>
@@ -70,7 +70,7 @@
 
   </li>
   
-</div></div>]]></content><author><name></name></author><category term="seo" /><summary type="html"><![CDATA[La Habra, California Website Design Services]]></summary></entry><entry><title type="html">WordPress Website Designer in La Habra, California</title><link href="http://localhost:4000/la-habra-california/website-designer/" rel="alternate" type="text/html" title="WordPress Website Designer in La Habra, California" /><published>2024-11-15T09:00:00-08:00</published><updated>2024-11-15T09:00:00-08:00</updated><id>http://localhost:4000/la-habra-california/1</id><content type="html" xml:base="http://localhost:4000/la-habra-california/website-designer/"><![CDATA[<!-- Page Title -->
+</div></div>]]></content><author><name></name></author><category term="seo" /><summary type="html"><![CDATA[La Habra, California Website Design Services]]></summary></entry><entry><title type="html">WordPress Website Designer in La Habra, California</title><link href="http://localhost:4000/la-habra-california/wordpress-designer/" rel="alternate" type="text/html" title="WordPress Website Designer in La Habra, California" /><published>2024-11-15T09:00:00-08:00</published><updated>2024-11-15T09:00:00-08:00</updated><id>http://localhost:4000/la-habra-california/1</id><content type="html" xml:base="http://localhost:4000/la-habra-california/wordpress-designer/"><![CDATA[<!-- Page Title -->
 <div class="in-cont pd-50">
     <h1 class="_28 _400">
         <span style="font-size: 12px;">
@@ -92,7 +92,7 @@
     <!-- Title Section-->
     <div class="cont flex">
 
-      <a href="/la-habra-california/website-designer/" style="text-decoration: none;">
+      <a href="/la-habra-california/wordpress-designer/" style="text-decoration: none;">
         <h2 class="_500 _14">WordPress Designer</h2>
 
       </a>
@@ -161,19 +161,115 @@
     </p>
 
 </div>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Spent yesterday adding a side menu to my website and currently building out a pricing tool that can help you estimate how much a website is going to cost based on relative information.]]></summary></entry><entry><title type="html">What is a website and what can it do?</title><link href="http://localhost:4000/what-is-a-website/" rel="alternate" type="text/html" title="What is a website and what can it do?" /><published>2024-11-14T00:00:00-08:00</published><updated>2024-11-14T00:00:00-08:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/what-is-a-website/"><![CDATA[<div class="in-cont pd-100">
-    <h1 class="_28 _500">What is a website?</h1>
-    <h2 class="_20 _500">What exactly is a website?</h2>
-    <p>
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Spent yesterday adding a side menu to my website and currently building out a pricing tool that can help you estimate how much a website is going to cost based on relative information.]]></summary></entry><entry><title type="html">How to Get Your Website On Google</title><link href="http://localhost:4000/google-search-console/" rel="alternate" type="text/html" title="How to Get Your Website On Google" /><published>2024-11-14T00:00:00-08:00</published><updated>2024-11-14T00:00:00-08:00</updated><id>http://localhost:4000/2</id><content type="html" xml:base="http://localhost:4000/google-search-console/"><![CDATA[<div class="in-cont pd-100 center">
+
+    <div class="cont mb-100">
+        <h1 class="_28 _400">How to Get Your Website on Google</h1>
+
+        <p class="_14 mb-25">
+            Getting your website on Google is not as hard as you think, it's actually simple. 
+        </p>
+    </div>
+
+   <div class="cont">
+        <h2 class="_20 _400">Head Over To Google Search Console</h2>
+        <p class="_14 mb-25">
+            In order to get your website online youre going to want to head over to
+             <a href="https://search.google.com/search-console/about" target="_blank">Google Search Console</a>
+         </p>
+        <p class="_14">
+            Their you can follow the process which will initially ask you to type in the domain of your website.
+        </p>
+   </div>
+  
+
+   <div class="cont">
+        <h2 class="_20 _400">Google Will Ask You To Verify Your Domain</h2>
+        <p class="_14 mb-25">
+            From their Google will check it's availibailty. If is currently not in use in their system they'll provide you with a .TXT file that you'll need to place in the domain name settings of your website. This file has a unique code that Google will be able to detect and veryfiy that the domain you submitted does infact belong to you.</p>
+   
+    </div>
+
+
+    <div class="cont">
+        <h2 class="_20 _400">Verify Your Domain With Google Search Console</h2>
+        <p class="_14 mb-25">
+            Their are several ways to verify your domain, the easiest for me has been the way google initally suggests.
+        </p>
+    </div>
+    <div class="cont">
+        <h2 class="_20 _400">Expect To Wait About A Day</h2>
+        <p class="_14 mb-25">
+            This process can take about a day to complete so be a little bit patient. Once done you can expect to start seeing analytics about how Google is using your website.
+        </p>
+    </div>
+</div><div class="cont footer mb-100 center text-center pd-50">
+    <h4 class="_18 _500 mb-40">
+        <span class="_12">Author</span> <br>
+        Ruben Gutierrez
+    </h4>
+    
+    <p class="_12 mw-300 center mt-10">Ruben Gutierrez is a technology enthusiast from the Greater Los Angeles, California, area.</p>
+
+    <div class="social">
+        <a class="_12" href="https://www.behance.net/ruben__gutierrez" target="_blank">Behance</a>
+        <a class="_12" href="https://www.x.com/rubengutierre_z" target="_blank">Twitter</a>
+        <a class="_12" href="https://www.dribbble.com/ruben_gutierrez" target="_blank">Dribbble</a>
+    </div>
+</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">What is a sitemap?</title><link href="http://localhost:4000/what-is-a-sitemap/" rel="alternate" type="text/html" title="What is a sitemap?" /><published>2024-11-14T00:00:00-08:00</published><updated>2024-11-14T00:00:00-08:00</updated><id>http://localhost:4000/1</id><content type="html" xml:base="http://localhost:4000/what-is-a-sitemap/"><![CDATA[<div class="in-cont pd-100 center">
+
+    <div class="cont mb-20">
+        <h1>What is a Sitemap</h1>
+
+        <p class="_16 mb-25">
+            Sitemaps to computers are like maps to people, they give us a better understanding of the world around us.
+            Sitemaps are files that provide information to computers about about the content in a file or on . 
+        </p>
+    </div>
+</div><div class="cont footer mb-100 center text-center pd-50">
+    <h4 class="_18 _500 mb-40">
+        <span class="_12">Author</span> <br>
+        Ruben Gutierrez
+    </h4>
+    
+    <p class="_12 mw-300 center mt-10">Ruben Gutierrez is a technology enthusiast from the Greater Los Angeles, California, area.</p>
+
+    <div class="social">
+        <a class="_12" href="https://www.behance.net/ruben__gutierrez" target="_blank">Behance</a>
+        <a class="_12" href="https://www.x.com/rubengutierre_z" target="_blank">Twitter</a>
+        <a class="_12" href="https://www.dribbble.com/ruben_gutierrez" target="_blank">Dribbble</a>
+    </div>
+</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">What is a website and what can it do?</title><link href="http://localhost:4000/what-is-a-website/" rel="alternate" type="text/html" title="What is a website and what can it do?" /><published>2024-11-14T00:00:00-08:00</published><updated>2024-11-14T00:00:00-08:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/what-is-a-website/"><![CDATA[<div class="in-cont pd-100">
+    <h1 class="_28 _500">What Is A Website & What Can It Help Me Do</h1>
+    <p class="_14">
         A website is a collection of web pages made by a person or a group
         that are all under the same domain.
     </p>
-    <p>
+
+    <h2 class="_20 _500">What exactly is a website?</h2>
+    <p class="_14">
+        Like most application websites are compiled into a folder and uploaded onto servers 
+    </p>
+    <h3 class="_16 _500">What types of files make up a website?</h3>
+    <p class="_14">
         Website are usually compromised of several diffrent types of files but
         the 3 most common types of files you'll find in a website are 
         HTML, CSS, and javascript.
     </p>
-</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[What is a website? What exactly is a website? A website is a collection of web pages made by a person or a group that are all under the same domain. Website are usually compromised of several diffrent types of files but the 3 most common types of files you'll find in a website are HTML, CSS, and javascript.]]></summary></entry><entry><title type="html">Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy</title><link href="http://localhost:4000/2024-11-12/why-reading-is-important/" rel="alternate" type="text/html" title="Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/why-reading-is-important/"><![CDATA[<!-- Content -->
+</div><div class="cont footer mb-100 center text-center pd-50">
+    <h4 class="_18 _500 mb-40">
+        <span class="_12">Author</span> <br>
+        Ruben Gutierrez
+    </h4>
+    
+    <p class="_12 mw-300 center mt-10">Ruben Gutierrez is a technology enthusiast from the Greater Los Angeles, California, area.</p>
+
+    <div class="social">
+        <a class="_12" href="https://www.behance.net/ruben__gutierrez" target="_blank">Behance</a>
+        <a class="_12" href="https://www.x.com/rubengutierre_z" target="_blank">Twitter</a>
+        <a class="_12" href="https://www.dribbble.com/ruben_gutierrez" target="_blank">Dribbble</a>
+    </div>
+</div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[What Is A Website & What Can It Help Me Do A website is a collection of web pages made by a person or a group that are all under the same domain.]]></summary></entry><entry><title type="html">Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy</title><link href="http://localhost:4000/2024-11-12/why-reading-is-important/" rel="alternate" type="text/html" title="Reading Is Awesome It Can Help Improve Your Life &amp;amp; Can Also Keep You From Going Crazy" /><published>2024-11-13T11:00:00-08:00</published><updated>2024-11-13T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/why-reading-is-important/"><![CDATA[<!-- Content -->
 <div class="post-cont center mb-30">
 
     <p class="_16 mb-20">
@@ -218,44 +314,58 @@
         Whenever you find yourself in a sea of contratdictions just take a deep breathe and try to focus on something you like. Once you have something in mind try and ask some questions about that subject. If you find your.
     </p>
 
-</div>]]></content><author><name></name></author><category term="current-post" /><summary type="html"><![CDATA[Reading has helped me learn so many skills I would have not otherwise had. It's helped me gain new perspectives and allowed me to empathies with people who'm I might have just walked by.]]></summary></entry><entry><title type="html">How To Make A Website</title><link href="http://localhost:4000/pages/how-to-make-a-website/" rel="alternate" type="text/html" title="How To Make A Website" /><published>2024-11-13T00:00:00-08:00</published><updated>2024-11-13T00:00:00-08:00</updated><id>http://localhost:4000/pages/</id><content type="html" xml:base="http://localhost:4000/pages/how-to-make-a-website/"><![CDATA[<div class="in-cont pd-100">
+</div>]]></content><author><name></name></author><category term="current-post" /><summary type="html"><![CDATA[Reading has helped me learn so many skills I would have not otherwise had. It's helped me gain new perspectives and allowed me to empathies with people who'm I might have just walked by.]]></summary></entry><entry><title type="html">How To Make A Website</title><link href="http://localhost:4000/how-to-make-a-website/" rel="alternate" type="text/html" title="How To Make A Website" /><published>2024-11-13T00:00:00-08:00</published><updated>2024-11-13T00:00:00-08:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/how-to-make-a-website/"><![CDATA[<div class="in-cont pd-100 center">
 
-    <h1>How To Make A Website</h1>
+    <h1 class="_32 _400">How To Make A Website</h1>
 
-    <p class="_16 mb-25">
-        Their are a thousand ways to make a website. 
-        
-        In this tutorials I'm going to be teaching the simplest way to make a website because I feel like a lot of the tutorials
-        online overcomplicate the subject at hand.
-        
-        If you want to make a website it's fairly simple to build one.
-        
-        All you have to do is create a new folder and compile.
+    <p class="_14 mb-25">
+        In this guide I'll be showing you how to make the most basic website so that you can get a better understanding of the fundmaelts and basic concepts behind web design.
     </p>
 
-    <div class="cont mb-50">
-        <h3 class="_20">Visual Studio Code A Really Good Text Editor</h3>
-        <p class="_16">
-            In order to start writing code you're going to need a text editor. I suggest installing Visual Studio Code
+    <pre>
+        <code class="language-html">
+            <HTML></HTML>
+        </code>
+    </pre>
+
+
+    <p class="_14 mb-25">Let's start with the basics. What is a website? A website is a grouping of webpages but a group or people under the same domain. </p>
+
+    <div class="cont mb-30">
+        <p class="_16 _500 mb-10">Visual Studio Code A Really Good Text Editor</p>
+        <p class="_14">
+            In order to start writing code you're going to need a text editor. I suggest installing <a href="">Visual Studio Code</a>
             because it provides you with a lot of useful tools, but any of them will do.
         </p>
     </div>
 
-    <div class="cont mb-50">
-        <h2>Step 1: Create A Folder</h2>
-        <p class="_16">A Website is a program and a program is essentially just files in a folder.</p>
-        <p class="_16">The first thing you're going to be doing is open up the folder in your text editor.</p>
+    <div class="cont mb-20">
+        <h2 class="_20 _400">Step 1: Create A Folder</h2>
+        <p class="_14">The first thing you're going to be doing is creating a folder somehwere on your desktop for easy access.The process is the same for both Windows & Mac. To create a folder you need to right click on yourscroll down to "New" and click itI suggest right clicking on your desktop and heading down t up the folder in your text editor.</p>
     </div>
 
     <div class="cont mb-50">
-        <h2>Step 2: Creating An HTML File</h2>
-        <p class="_16 mb-25">
+        <h2 class="_20 _400">Step 2: Creating An HTML File</h2>
+        <p class="_14 mb-25">
             The main type of file you'll be using when you're building websites are .HTML files.
         </p>
-        <p class="_16">Hyper Text Markup Language is a coding langauge that is used to give structure and render information. </p>
+        <p class="_14">Hyper Text Markup Language is a coding langauge that is used to give structure and render information. </p>
         <h3 class="_20">What is an HTML file?</h3>
     </div>
 
+</div><div class="cont footer mb-100 center text-center pd-50">
+    <h4 class="_18 _500 mb-40">
+        <span class="_12">Author</span> <br>
+        Ruben Gutierrez
+    </h4>
+    
+    <p class="_12 mw-300 center mt-10">Ruben Gutierrez is a technology enthusiast from the Greater Los Angeles, California, area.</p>
+
+    <div class="social">
+        <a class="_12" href="https://www.behance.net/ruben__gutierrez" target="_blank">Behance</a>
+        <a class="_12" href="https://www.x.com/rubengutierre_z" target="_blank">Twitter</a>
+        <a class="_12" href="https://www.dribbble.com/ruben_gutierrez" target="_blank">Dribbble</a>
+    </div>
 </div>]]></content><author><name></name></author><category term="tutorials" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Your Fear of Failing Is Keeping You From Making Money</title><link href="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failing/" rel="alternate" type="text/html" title="Your Fear of Failing Is Keeping You From Making Money" /><published>2024-11-12T11:00:00-08:00</published><updated>2024-11-12T11:00:00-08:00</updated><id>http://localhost:4000/2024-11-12/</id><content type="html" xml:base="http://localhost:4000/2024-11-12/getting-over-the-fear-of-failing/"><![CDATA[<div class="post-cont mb-30 center">
  
     <p class="_14 mb-20">
@@ -308,63 +418,4 @@
             Earlier this week without thought I went over to ChatGPT.com and began writing. 
         </p>
     </div>
-</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[I'm probably a little late to this but better late than never especially in the technology world. Admitely when I first used ChatGPT I would ask it silly questions but after a while of watch the way programmers where using it I decided to give it a try and I have to say I'm pleasantly suprised.]]></summary></entry><entry><title type="html">Car Importing Business Mobile Website Design - Free Figma Template</title><link href="http://localhost:4000/figma-templates/car-honda-importer-mobile-website-design/" rel="alternate" type="text/html" title="Car Importing Business Mobile Website Design - Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/5</id><content type="html" xml:base="http://localhost:4000/figma-templates/car-honda-importer-mobile-website-design/"><![CDATA[<div class="in-cont pd-50">
-    <!-- Hero -->
-    <div class="flex">
-        <div>
-            <h1 class="_28 mt-100">Car Importing Business Mobile Website Design - Free Figma Template</h1>
-            <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button" data-theme="grey" data-product="qZw4a">Download</a>
-        </div>
-        <div>
-            <img src="/assets/templates/car-importing-website.jpg" alt="">
-            <br>
-        </div>
-    </div>
-
-    <h1>What is this?</h1>
-    <p class="_16">
-        This is a mobile website design for a car importing/importer business. Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light Automobile' in Japanese.
-    </p>
-
-    <p class="_16">
-        Kei cars specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
-    </p>
-
-    <p class="_16">
-        Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
-    </p>
-
-    <p class="_16">I've noticed a lot of people buying these and figured that using a Kei Truck would be fitting for this type of business and design.
-    </p>
-    <p class="_16">
-        To make this I took inspiration from automotive website designs I found online along with some personal knowledge about the type of information you want to see when your shopping for cars online and this is what I came up with.
-    </p>
-    <p class="_16">
-        I spend a few hours designing the layout and spend another hour or two making the logo look as cool as possible.  I used 'League gothic' for the big 'IMPORTER' text on top and translated 'car imported' to Japanese text and placed it right underneath.
-    </p>
-    
-</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[Car Importing Business Mobile Website Design - Free Figma Template Download]]></summary></entry><entry><title type="html">Website Starter Package Landing Page- Free Figma Template</title><link href="http://localhost:4000/figma-templates/website-starter-package-landing-page/" rel="alternate" type="text/html" title="Website Starter Package Landing Page- Free Figma Template" /><published>2024-10-28T12:00:00-07:00</published><updated>2024-10-28T12:00:00-07:00</updated><id>http://localhost:4000/figma-templates/6</id><content type="html" xml:base="http://localhost:4000/figma-templates/website-starter-package-landing-page/"><![CDATA[<div class="in-cont pd-50">
-
-    <h1>Website Starter Package Landing Page - Free Figma Template</h1>
-
-    <img src="/assets/templates/website-starter-package.jpg" alt="">
-    <br>
-    <a href="https://payhip.com/b/qZw4a" class="payhip-buy-button mb-25" data-theme="grey" data-product="qZw4a">Download</a>
-
-    <br>
-
-    <h1>What is this?</h1>
-    <p class="_16">
-        This is a landing page I made in Figma. It offers a website starter package in the Brea, California area.  I designed this webpage/service for beginners who are interested in starting a website.  It contains a lot of basic essential and design services to get up and running in no time.
-
-        Often times the concepts and vocabulary around website development can put off people who simply just want a website but don't want to learn the technology.
-
-        My goal for this landing page was to help make website design services look more like a product you can order or buy on a shelf.
-    </p>
-    <p></p>
-
-    <p class="_16">
-        Click the link underneatht the image to download this file for Figma.
-    </p>
-
-</div>]]></content><author><name></name></author><category term="figma" /><summary type="html"><![CDATA[A Landing Page]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[I'm probably a little late to this but better late than never especially in the technology world. Admitely when I first used ChatGPT I would ask it silly questions but after a while of watch the way programmers where using it I decided to give it a try and I have to say I'm pleasantly suprised.]]></summary></entry></feed>

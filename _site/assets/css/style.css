@@ -347,14 +347,19 @@ p {
 
 /* off-screen-menu */
 .off-screen-menu {
-  background-color: #d1d1d1;
+  background-color: #ffffff;
   height: 100%;
   width: 100%;
-  max-width: 450px;
   position: fixed;
   top: 0;
-  right: -450px;
+  right: -100%;
   transition: 0.3s ease;
+}
+.off-screen-menu ul {
+  padding-top: 30px;
+}
+.off-screen-menu ul li {
+  text-align: center;
 }
 
 .off-screen-menu.active {
