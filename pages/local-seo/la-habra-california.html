@@ -1,0 +1,29 @@
+---
+layout: default
+title: "Web Services in The La Habra, California Area"
+permalink: /la-habra-california/
+date:   2024-09-22 10:00:00 -0700
+description: La Habra, California Website Search Engine Optimization. 
+---
+<div class="in-cont pd-50">
+
+  <h1>Are you looking for Website Services in The La Habra, California area.</h1>
+
+  {% for post in site.tags.seo %}
+  <!-- Blog Post -->
+  <li class="mb-50" style="list-style-type: none;">
+
+    <!-- Title Section-->
+    <div class="cont blog-title flex">
+
+      <!-- Link -->
+      <a href="{{ post.url }}">
+
+        <!-- Title -->
+        <h2 class="_500 _20">{{ post.display-title }}</h2>
+
+      </a>
+    </div>
+  </li>
+  {% endfor %}
+</div>
