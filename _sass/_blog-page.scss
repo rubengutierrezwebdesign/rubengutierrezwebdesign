@@ -9,14 +9,19 @@
     
     li {
         width: 100%;
-        margin-bottom: 100px;
+        margin-bottom: 75px;
+        padding: 20px;
 
         @media(min-width:$ph){
-            width: 45.5%;
+            width: 45%;
         }
 
         @media(min-width:$dt){
-            width: 20.5%;
+            width: 23.5%;
+        }
+
+        h2 {
+            height: 80px;
         }
     }
 }

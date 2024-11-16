@@ -5,17 +5,19 @@ title: Figma Templates
 description: Figma Templates
 ---
 
-<div class="in-cont pd-100 center">
-    <h1>Figma Templates</h1>
+<div class="in-cont center pd-50">
+    <div class="cont paa-10">
+        <h1 class="_400 _28">Figma Templates</h1>
     <p class="_16">Here you'll find Figma Templates that I've made.
     </p>
+    </div>
 </div>
 
 <div class="in-cont center">
     <ul class="figma-templates">
         {% for post in site.tags.figma %}
             <!-- Blog Post -->
-            <li class="umb-30 orange mw-600">
+            <li class="umb-30 orange mw-600  paa-10">
                 <img src="{{ post.thumbnail }}" alt="">
                 <!-- Title -->
                 <a href="{{ post.url }}"><h2 class="_18 _400">{{ post.display }}</h2></a>

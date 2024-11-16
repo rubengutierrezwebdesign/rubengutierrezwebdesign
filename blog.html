@@ -9,7 +9,7 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 <div class="in-cont mb-50 pd-50 center">
   {% for post in site.tags.current-post %}
     <!-- Title Section-->
-    <div class="cont flex">
+    <div class="cont br flex" style="padding:20px">
 
       <div class="information mw-500" style="padding:20px20px20px0;max-height: 200px;">
 
@@ -26,10 +26,6 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 
       </div>
 
-    
-    
-
-    <!-- Description -->
     </div>
   {% endfor %}
 </div>
@@ -40,33 +36,34 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
   <ul class="cont blog mb-100 center">
 
     
-    {% for post in site.tags.daily-post limit:8 %}
-        <!-- Blog Post -->
-        <li class="mb-50">
-          
-          <!-- Date -->
-          <div class="post-date _10 mb-10">
-            <span>{{ post.date | date: "%b, %-d %Y" }}</span>
-          </div>
-
-          <!-- Title Section-->
-          <div class="cont blog-title flex">
-
-            <!-- Link -->
-            <a href="{{ post.url }}">
-
-              <!-- Title -->
-              <h2 class="_500 _16">{{ post.title }}</h2>
-
-            </a>
-
-          </div>
-
-          <!-- Description -->
-          <p class="_12">{{ post.description }}</p>
+    {% for post in site.tags.daily-post limit:6 %}
+      <!-- Blog Post -->
+      <li class="br mb-50 paa-20" style="background-color:rgb(255, 255, 255)">
         
-        </li>
+        <!-- Date -->
+        <div class="post-date _10 mb-10">
+          <span>{{ post.date | date: "%b, %-d %Y" }}</span>
+        </div>
+
+        <!-- Title Section-->
+        <div class="cont blog-title flex">
+
+          <!-- Link -->
+          <a href="{{ post.url }}">
+
+            <!-- Title -->
+            <h2 class="_500 _16">{{ post.title }}</h2>
+
+          </a>
+
+        </div>
+
+        <!-- Description -->
+        <p class="_12">{{ post.description }}</p>
+      
+      </li>
     {% endfor %}
+    
 
   </ul>
 </div>

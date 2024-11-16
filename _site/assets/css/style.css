@@ -27,6 +27,10 @@ ul {
   }
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .mb-10 {
   margin-bottom: 10px;
 }
@@ -156,6 +160,14 @@ ul {
 
 .text-center {
   text-align: center;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-45 {
+  width: 45%;
 }
 
 .about-section .home-about {
@@ -589,17 +601,21 @@ header {
 }
 .blog li {
   width: 100%;
-  margin-bottom: 100px;
+  margin-bottom: 75px;
+  padding: 20px;
 }
 @media (min-width: 600px) {
   .blog li {
-    width: 45.5%;
+    width: 45%;
   }
 }
 @media (min-width: 1200px) {
   .blog li {
-    width: 20.5%;
+    width: 23.5%;
   }
+}
+.blog li h2 {
+  height: 80px;
 }
 
 .bt {

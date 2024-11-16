@@ -1,0 +1,23 @@
+---
+layout: default
+title: Ruben Gutierrez - Website Designer
+description: Website Designer, Friendly, Figma, 
+permalink: /websites/
+---
+<div class="in-cont center">
+  <div class="cont pd-50">
+    <h1 class="_24 _500">Websites</h1>
+    <p class="_14">Are you intrested in learning more about websites and web design?</p>
+  </div>
+
+  {% for post in site.tags.tutorials %}
+    <!-- Title Section-->
+    <div class="cont blog-title flex paa-10" style="text-decoration:none;" >
+        <!-- Link -->
+        <a class="br paa-10" href="{{ post.url }}" style="text-decoration:none;display:block;max-width: 300px;width:100%;">
+        <!-- Title -->
+        <h2 class="sm _400 _16">{{ post.title }}</h2>
+      </a>
+    </div>        
+  {% endfor %}
+</div>
