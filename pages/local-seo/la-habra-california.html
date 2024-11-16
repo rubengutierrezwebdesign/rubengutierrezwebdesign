@@ -5,25 +5,28 @@ permalink: /la-habra-california/
 date:   2024-09-22 10:00:00 -0700
 description: La Habra, California Website Search Engine Optimization. 
 ---
-<div class="in-cont pd-50">
+<div class="in-cont pd-50 center">
 
-  <h1>Are you looking for Website Services in The La Habra, California area.</h1>
+  <h1 class="mw-600 _400">Are you looking for Website Services in The La Habra, California area.</h1>
+  <p>Check out Some of the Services Below</p>
+  <div class="flex pd-50">
+    {% for post in site.tags.seo %}
+    <!-- Blog Post -->
+    <li class="mb-50 br" style="list-style-type: none;width: 250px;">
 
-  {% for post in site.tags.seo %}
-  <!-- Blog Post -->
-  <li class="mb-50" style="list-style-type: none;">
+      <!-- Title Section-->
+      <div class="cont flex center-text">
 
-    <!-- Title Section-->
-    <div class="cont blog-title flex">
+        <!-- Link -->
+        <a href="{{ post.url }}" style="text-decoration: none;">
 
-      <!-- Link -->
-      <a href="{{ post.url }}">
+          <!-- Title -->
+          <h2 class="_400 _18">{{ post.display-title }}</h2>
 
-        <!-- Title -->
-        <h2 class="_500 _20">{{ post.display-title }}</h2>
-
-      </a>
+        </a>
+        
+      </div>
+    </li>
+    {% endfor %}
     </div>
-  </li>
-  {% endfor %}
 </div>

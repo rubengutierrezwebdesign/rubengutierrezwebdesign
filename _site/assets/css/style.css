@@ -12,7 +12,7 @@ ul {
 
 * {
   margin: 0;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 
 .default {
@@ -268,6 +268,11 @@ h4 {
 
 ._18 {
   font-size: 1.125em;
+}
+@media (min-width: 900px) {
+  ._18 {
+    font-size: 1.125em;
+  }
 }
 
 ._20 {
@@ -614,8 +619,19 @@ header {
     width: 23.5%;
   }
 }
+@media (min-width: 1200px) {
+  .blog li h1 {
+    font-size: 2em;
+  }
+}
 .blog li h2 {
   height: 80px;
+}
+
+@media (min-width: 900px) {
+  .information a h1 {
+    font-size: 2em !important;
+  }
 }
 
 .bt {
@@ -652,6 +668,10 @@ header {
   .services .cont {
     width: 45%;
   }
+}
+
+body, html {
+  height: 100%;
 }
 
 button {

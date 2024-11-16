@@ -9,19 +9,19 @@ description: Blog About Website Design, Jekyll, WordPress, Making Websites, SASS
 <div class="in-cont mb-50 pd-50 center">
   {% for post in site.tags.current-post %}
     <!-- Title Section-->
-    <div class="cont br flex" style="padding:20px">
+    <div class="cont br flex paa-20">
 
-      <div class="information mw-500" style="padding:20px20px20px0;max-height: 200px;">
+      <div class="information mw-600" style="padding:20px20px20px0;">
 
         <!-- Date -->
         <div class="_12">
           <span>{{ post.date | date: "%b, %-d %Y" }}</span>
         </div>
-        <!-- Title & Link -->
+        <!-- Link -->
         <a style="text-decoration:none"href="{{ post.url }}">
-          <!-- Title -->
-          <h1 class=" _500 _20">{{ post.title }}</h1>
+          <h1 class=" _500 _18">{{ post.title }}</h1>
         </a>
+        <!-- Description -->
         <p class="_14">{{ post.description }}</p>
 
       </div>
